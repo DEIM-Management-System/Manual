@@ -4,9 +4,12 @@
 
 ## 日本語
 
-1. セッション開始10分前に，ブラウザでDEIM2021参加者用プログラムを開き，Webex Meetingのセッションの会議室に入る．入る前に，「A1-1:氏名(所属)」「A1-1:氏名(研究室名)」のように，発表番号を名前に付けて，ほかの参加者に分かるようにする．
-（名前を変更するには，Webex のホームページにアクセス，ログインし，左上のアイコンをクリックすると編集できるようになる．）
+1. セッション開始10分前までに，ブラウザで[DEIM2021プログラム](https://cms.deim-forum.org/deim2021/program/)を開き，[Webex Meeting](https://mediafiles.webex.com/ja/downloads.html)のセッションの会議室に入る．
+    * 入る前に，「A1-1:氏名(所属)」「A1-1:氏名(研究室名)」のように，発表番号を名前に付けて，ほかの参加者に分かるようにする．
+    * 名前を変更するには，Webex のホームページにアクセス，ログインし，左上のアイコンをクリックすると編集できるようになる．
+    * セッション開始前に一度画面共有の練習をすること．
 1. PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておく．
+    * 学生の発表者は学生プレゼンテーション賞の対象なので，座長から学生であるか確認があります．
 1. 発表の順番になったら，Webex Meetingから，以下の３操作によりプレゼンテーションを開始する．
     * マイクのミュートを解除
     * インカメラをオン
@@ -19,8 +22,9 @@
 
 注意点
 - 持ち時間：20分（交代に時間がかかる事が予想されるため、全体で18分，発表時間12分～15分、質疑応答3分～5分）
-- 音を参加者に聞かせる必要がある場合，イヤホン等を接続しないで音を再生してください．イヤホン等をつないでしまうと，その音がマイクを通じて流れないので，他の参加者に音が聞こえなくなります．
+    * 12分，15分，18分でタイマーによるお知らせをします．
 - 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてから，コンテンツの共有を開始してください．
+- 外部にへの公開の予定はありませんが，発表の様子は録画されますので予めご了承ください．
 
 （名前の変更の例 / Example of Changing Screen Name）
 
@@ -40,9 +44,12 @@
 
 ## English
 
-1. 10 min. before the starting time of the session, from DEIM2021 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname (Univ. Name)" or "A1-1: Firstname Familyname (Lab. Name)" to identify for participants.
-(To change your name, access the home page of Webex and login, you can change your name by clicking the icon on the top left corner.)
+1. 10 min. before the starting time of the session, from [DEIM2021 program]((https://cms.deim-forum.org/deim2021/program/)), you need to enter the conference room.
+    * When you enter it, you must name yourself as "A1-1: Firstname Familyname (Univ. Name)" or "A1-1: Firstname Familyname (Lab. Name)" to identify for participants.
+    * To change your name, access the home page of Webex and login, you can change your name by clicking the icon on the top left corner.
+    * Before starting the session, you should test shareing the screen.
 1. Launch your presentation materials such as PowerPoint.
+    * Students are eligible for the online presentation award, so the session chair will check you are a student or not.
 1. When you start the presentation:
     * unmute your microphone
     * turn on your in-camera
@@ -55,5 +62,7 @@
 
 Note
 - You have 20 minutes including Q&A. But please prepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switching presentations takes time for a while.
-- If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.
+    * The timer will notify you in 12 min., 15 min., and 18 min.
 - If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
+- The presentation will be recorded.
+    * The videos will not be published to the outside.
