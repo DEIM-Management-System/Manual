@@ -94,3 +94,21 @@
 * コメンテータの皆様は，以下の提出物があります．
 	1. コメンテータ評価シート（会議終了後一週間以内までに）
 		* https://cms.deim-forum.org/deim2021/program/commentator.php
+
+
+## Tips
+
+### Cisco Webex meetingsにおけるユーザ名の変更の仕方
+1. オンライン会議から退席した状態で，Webex Meetingアプリを立ち上げる
+2. 右上の鉛筆アイコンをクリックして名前を変更する
+	* 座長は『（セッション番号）座長：氏名（所属）』、コメンテータは『（セッション番号）コメンテータ：氏名（所属）)』とする。
+	
+![rename1](img/rename6.png)
+![rename1](img/rename8.png)
+
+3. DEIM2021ポータルからオンライン会議に参加し直す
+
+## DEIM2021ポータルについて
+座長・コメンテータのE-mailアドレスでサインインしてDEIM2021ポータルへ入ると，以下のような画面が表示され，自身が担当するセッションや評価シートへ迅速にアクセスできます。
+
+![Portal_for_chair](img/DEIMportal_for_chair.png)
