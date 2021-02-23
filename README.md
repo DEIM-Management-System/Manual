@@ -8,5 +8,8 @@
 ## 学生アルバイトマニュアル
 - hogehoge
 
+## 特別な委員用のマニュアル
+- [プレナリーセッション座長用](forPlenaryChair.md)
+
 ## Cisco Webex関連リンク集
 - hogehoge
