@@ -8,6 +8,8 @@
     * 入る前に，「A1-1:氏名(所属)」「A1-1:氏名(研究室名)」のように，発表番号を名前に付けて，ほかの参加者に分かるようにする．
     * 名前を変更するには，Webex のホームページにアクセス，ログインし，左上のアイコンをクリックすると編集できるようになる．
     * セッション開始前に一度画面共有の練習をすること．
+    * 予定されたWebex会議室へアクセスできない場合はポータルトップの案内をご確認ください．
+    * トラブルが起きてWebex会議室が立ち上がらなかった場合など，予備のWebex会議室へ移動になることがあります（アクセスURLが変更になります）．その場合はポータルトップへ緊急アナウンスを出します．
 1. PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておく．
     * 学生の発表者は学生プレゼンテーション賞の対象なので，座長から学生であるか確認があります．
 1. 発表の順番になったら，Webex Meetingから，以下の３操作によりプレゼンテーションを開始する．
@@ -49,6 +51,8 @@
     * When you enter it, you must name yourself as "A1-1: Firstname Familyname (Univ. Name)" or "A1-1: Firstname Familyname (Lab. Name)" to identify for participants.
     * To change your name, access the home page of Webex and login, you can change your name by clicking the icon on the top left corner.
     * Before starting the session, you should test shareing the screen.
+    * If you cannot access the scheduled Webex conference room, please check the information on the portal top.
+    * If a Webex conference room does not start up, you may be moved to a spare Webex conference room (access URL will be changed). In that case, an emergency announcement will be issued to the portal top.
 1. Launch your presentation materials such as PowerPoint.
     * Students are eligible for the online presentation award, so the session chair will check you are a student or not.
 1. When you start the presentation:
