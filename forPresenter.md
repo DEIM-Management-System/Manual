@@ -19,6 +19,7 @@
 1. 質疑応答が終わったら，画面上部のメニューのコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)．
 1. 終わったら，通常の参加者としてセッションに参加する
 1. ミーティングから退席する前に，チャットを保存しておくと良い（ファイル→保存→チャット）．
+1. 各セッションの掲示板にて質問やコメントが投稿されることがあるので，できる限り対応してください．
 
 注意点
 - 持ち時間：20分（交代に時間がかかる事が予想されるため、全体で18分，発表時間12分～15分、質疑応答3分～5分）
@@ -59,6 +60,8 @@
 1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents.
 1. You can join the session as a participant.
 1. Before leaving the session, it is good for you to save chat by File->Save->Chat.
+1. Questions and comments may be posted on the bulletin board of each session.
+    * Please respond to them as much as possible.
 
 Note
 - You have 20 minutes including Q&A. But please prepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switching presentations takes time for a while.
