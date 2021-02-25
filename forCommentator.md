@@ -111,6 +111,7 @@
 
 ![Portal_for_chair](img/DEIMportal_for_chair.png)
 
+
 ### Cisco Webex meetingsにおけるユーザ名の変更の仕方
 1. オンライン会議から退出した状態で，Webexアプリを立ち上げる
 2. 左上の丸いところをクリックしてメニューを表示する
