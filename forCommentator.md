@@ -106,6 +106,11 @@
 
 ## Tips
 
+### DEIM2021ポータルについて
+座長・コメンテータのE-mailアドレスでサインインしてDEIM2021ポータルへ入ると，以下のような画面が表示され，自身が担当するセッションや評価シートへ迅速にアクセスできます。
+
+![Portal_for_chair](img/DEIMportal_for_chair.png)
+
 ### Cisco Webex meetingsにおけるユーザ名の変更の仕方
 1. オンライン会議から退出した状態で，Webexアプリを立ち上げる
 2. 左上の丸いところをクリックしてメニューを表示する
@@ -117,9 +122,5 @@
 4. DEIM2021ポータルからオンライン会議に参加し直す
 	
 ![rename1](img/rename6.png)
+![rename1](img/rename7.png)
 ![rename1](img/rename8.png)
-
-### DEIM2021ポータルについて
-座長・コメンテータのE-mailアドレスでサインインしてDEIM2021ポータルへ入ると，以下のような画面が表示され，自身が担当するセッションや評価シートへ迅速にアクセスできます。
-
-![Portal_for_chair](img/DEIMportal_for_chair.png)
