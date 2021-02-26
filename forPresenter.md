@@ -5,7 +5,7 @@
 ## 日本語
 
 1. セッション開始10分前までに，ブラウザで[DEIM2021プログラム](https://cms.deim-forum.org/deim2021/program/)を開き，[Webex Meeting](https://mediafiles.webex.com/ja/downloads.html)のセッションの会議室に入る．
-    * 入る前に，「A1-1:氏名(所属)」「A1-1:氏名(研究室名)」のように，発表番号を名前に付けて，ほかの参加者に分かるようにする．
+    * 入る前に，「A1-1:氏名_所属」「A1-1:氏名_研究室名」のように，発表番号を名前に付けて，ほかの参加者に分かるようにする．
     * 名前を変更するには，Webex のホームページにアクセス，ログインし，左上のアイコンをクリックすると編集できるようになる．
     * セッション開始前に一度画面共有の練習をすること．
     * 予定されたWebex会議室へアクセスできない場合はポータルトップの案内をご確認ください．
@@ -48,7 +48,7 @@
 ## English
 
 1. 10 min. before the starting time of the session, from [DEIM2021 program]((https://cms.deim-forum.org/deim2021/program/)), you need to enter the conference room.
-    * When you enter it, you must name yourself as "A1-1: Firstname Familyname (Univ. Name)" or "A1-1: Firstname Familyname (Lab. Name)" to identify for participants.
+    * When you enter it, you must name yourself as "A1-1: Firstname Familyname"_"Univ. Name" or "A1-1: Firstname Familyname"_"Lab. Name" to identify for participants.
     * To change your name, access the home page of Webex and login, you can change your name by clicking the icon on the top left corner.
     * Before starting the session, you should test shareing the screen.
     * If you cannot access the scheduled Webex conference room, please check the information on the portal top.
