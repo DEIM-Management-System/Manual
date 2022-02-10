@@ -1,4 +1,4 @@
-# DEIM 発表者向けマニュアル
+# DEIM 口頭発表者向けマニュアル
 
 [<<Home](README.md)
 
