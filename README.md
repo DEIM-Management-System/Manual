@@ -7,7 +7,7 @@
 - [座長・コメンテータ用](forCommentator.md)
 
 ## オンライン開催に関するマニュアル
-- [Webexでの表示名の変更方法](WebexHowto.md)
+- [Webexの使い方（含む表示名の変更方法）](WebexHowto.md)
 - [oViceの使い方（含む表示名の変更方法）](Howto.md)
 
 ## 学生アルバイトマニュアル
