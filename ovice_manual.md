@@ -19,12 +19,12 @@
    ![メガホン](img/ovice_megaphone.png)
 
 
-### 以下のoVice公式ガイドも参考にしてください
+### 以下のoVice公式ガイド等もご参考にしてください
 
-[oVice 使い方ガイド](https://www.youtube.com/watch?v=C8r02gYDA50&t=3s)
-(初めての方向け)
+[oVice使い方ガイド](https://www.youtube.com/watch?v=C8r02gYDA50&t=3s)
+
 
 [oViceデモ](https://tour.ovice.in/)
-(oViceスタッフに質問できます(平日9:00-17:30)) 
+
 
 [oViceヘルプセンター](https://ja.ovice.wiki/)
