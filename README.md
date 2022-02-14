@@ -6,6 +6,10 @@
 - [一般参加者（聴講者）用](forAudience.md)
 - [座長・コメンテータ用](forCommentator.md)
 
+## オンライン開催に関するマニュアル
+- [Webexでの表示名の変更方法](WebexHowto.md)
+- [oViceの使い方（含む表示名の変更方法](Howto.md)
+
 ## 学生アルバイトマニュアル
 - hogehoge
 
