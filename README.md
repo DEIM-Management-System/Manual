@@ -2,6 +2,7 @@
 
 ## セッション進行に関するマニュアル
 - [口頭発表者用](forPresenter.md)
+- [ポスター発表者用](forPosterPresenter.md)
 - [一般参加者（聴講者）用](forAudience.md)
 - [座長・コメンテータ用](forCommentator.md)
 
