@@ -35,7 +35,7 @@
 
 
 ## セッション後には
-1. 山下記念研究賞への積極的な投票をお願いします．
+1. 山下記念研究賞への積極的な投票をお願いします．なお，投票時に記す**メールアドレスは必ずDEIMにサインアップしたもの**をお使いください（違うと投票が無効となります）．
     * [山下記念研究賞 選考アンケート用紙（2022年2月28日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfhLHi7wVKaZqSyOS_z7Kc4JYIGXXOaYfjlcKjhJ5aqNrLpxA/viewform)
     * [山下記念研究賞 選考アンケート用紙（2022年3月1日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform)
     * [山下記念研究賞 選考アンケート用紙（2022年3月2日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform)
