@@ -35,9 +35,15 @@
 
 
 ## セッション後には
-1. 時間が無くてoViceにおいて質問できなかったことについては，各セッションの「掲示板」にて投稿することができます．
+1. 山下記念研究賞の投票をお願いします．
+    * 山下記念研究賞 [選考アンケート用紙（2022年2月28日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfhLHi7wVKaZqSyOS_z7Kc4JYIGXXOaYfjlcKjhJ5aqNrLpxA/viewform)
+    * 山下記念研究賞 選考アンケート用紙（2022年3月1日発表分）
+    	* https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform
+    * 山下記念研究賞 選考アンケート用紙（2022年3月2日発表分）
+    	* https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform
+3. 時間が無くてoViceにおいて質問できなかったことについては，各セッションの「掲示板」にて投稿することができます．
     * セッションのページの左上「購読する」を On にすることで，ポータルからスレッドを参照できるようになります．
-2. 積極的に掲示板での議論をしたり，良いと思った研究に対して「いいね」「超いいね」ボタンを押してください．
+4. 積極的に掲示板での議論をしたり，良いと思った研究に対して「いいね」「超いいね」ボタンを押してください．
     * これらの統計情報をもとに「注目研究賞」が決定されます．
     * 積極的に活性化してくださった聴講者には感謝状を授与する予定です．
 
