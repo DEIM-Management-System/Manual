@@ -80,7 +80,7 @@
    * Disconnect: Automatically disconnects when the meeting object is a certain distance away.  
    * Screen Sharing: Right click on the meeting object and the screen sharing icon will appear.
 
-4. operations in oVice  
+4. Ohter operations in oVice  
    * Rename: You can change the name by clicking on your icon.  
    * Move frame: Sometimes a frame such as a poster covers your icon and you can't move it. In this case, drag the frame to move it. 
 
