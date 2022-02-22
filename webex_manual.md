@@ -5,6 +5,10 @@ Cisco Webex meetingsにおけるユーザ名の変更の仕方
 3. 「プロファイルの編集」を選択
 4. 表示名を編集する
 5. DEIM2022ポータルからオンライン会議に参加し直す
+	
+![rename1](img/rename6.png)
+![rename1](img/rename7.png)
+![rename1](img/rename8.png)
 
 
 ### 以下のWebex公式ガイド等もご参考にしてください
