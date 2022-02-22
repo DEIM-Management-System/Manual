@@ -22,16 +22,18 @@
    ![フロア移動](img/ovice_floormove.png)
  
  
-3. ミーティングオブジェクトの使い方  
-   口頭発表の質疑応答・インタラクティブ発表では発表ごとに１つミーティングオブジェクトが設置されています．ミーティングオブジェクトに接続することで，接続者全員と会話や画面共有をすることができます．  
-   * 接続方法：ミーティングオブジェクトをダブルクリックする．接続に成功するとアイコンとミーティングオブジェクトの間に線が引かれます．（ある程度ミーティングオブジェクトに近くないと接続することができません）  
-   * 切断方法：ミーティングオブジェクトから一定距離離れると自動的に切断されます．
+3. 会議室の使い方  
+   口頭発表の質疑応答・インタラクティブ発表では発表ごとに会議室が設置されています．会議室に入室することで，外部から邪魔をされずに会議室内全員と会話や画面共有をすることができます．  
+   * 入室方法：会議室の四角の範囲内をクリックすることで入室することができます．
+   * 退出方法：下側の右端のドアのボタンをクリックすると退出することができます．
    
-   ![ミーティングオブジェクト](img/ovice_meeting_object.png)
+   ![会議室退出](img/ovice_meeting_room_exit.png)
    
-   * 画面共有:ミーティングオブジェクトを右クリックすると画面共有のアイコンが出てくるので，それをクリックしてください．
+   * 画面共有:下側の真ん中あたりにある画面のボタンをクリックすると画面共有をすることができます（動画などの音声も共有したいときは「システムの音声を共有する」にチェックを入れてください）．
    
-   ![ミーティングオブジェクトの画面共有](img/ovice_meeting_object_share.png)
+   ![会議室の画面共有](img/ovice_meeting_room_share.png)
+   
+   ![会議室の画面共有（音声）](img/ovice_meeting_room_audioshare.png)
 
 
 4. oVice内での操作  
@@ -74,11 +76,11 @@
     5F Oral-EFG  
     6F Oral-HJK  
 
-3. Use the meeting object  
-   A meeting object is set up for each oral presentation in the Q&A and interactive presentations. By connecting to the meeting object, you can talk and share the screen with all the connected participants.  
-   * Connect: Double-click the meeting object. If the connection is successful, a line will be drawn between the icon and the meeting object. (You need to be close to the meeting object to be able to connect.)  
-   * Disconnect: Automatically disconnects when the meeting object is a certain distance away.  
-   * Screen Sharing: Right click on the meeting object and the screen sharing icon will appear.
+3. Use the meeting room  
+   A meeting room will be set up for each presentation in the oral question and answer session and interactive presentation. By entering the conference room, you can talk and share the screen with everyone in the conference room without being disturbed from outside.  
+   * Enter the meeting room: You can enter the meeting room by clicking within the square of the meeting room.
+   * Exit the meeting room: Click the door button on the right side of the bottom to leave the meeting room.
+   * Screen sharing: Click on the screen button in the middle of the bottom side to share the screen (if you want to share audio such as video, check "Share system audio").
 
 4. Ohter operations in oVice  
    * Rename: You can change the name by clicking on your icon.  
