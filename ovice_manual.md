@@ -55,3 +55,43 @@
 
 
 [oViceヘルプセンター](https://ja.ovice.wiki/)
+
+
+
+# DEIM Manual for oVice (English version)
+1. Enter oVice  
+  Enter your name in the space, check the box for consent, and click Next. Next, you will be asked to set the speaker, microphone, and camera settings. You will also be asked for permission to use the microphone and camera from your browser when you enter the room or move to the floor, so please enter the room with permission.  
+    * If you are a presenter, please register your name as "A21-1:Firstname Familyname Univ. Name" or "A21-1:Firstname Familyname Lab. Name", and add your presentation number to your name so that other participants can recognize you. Participants are requested to register as "Firstname Familyname Affiliation Name". You can change your name at any time by clicking on your icon after entering the room.  
+    
+2. Moving in oVice  
+  You can move by "dragging your icon" or "double-clicking where you want to go". The black circle you see when you drag the icon is the area where you can hear. Move so that the presenter, company booth, or person you want to talk to is within the black circle. Once the person you want to talk to is within the black circle, turn on the camera and microphone as appropriate and start a conversation (the camera and microphone are off when you enter the room).  
+    * Depending on the size of your display, the oVice room may not be fully displayed. Please scroll to the desired location by scrolling horizontally or vertically in your browser.  
+    * You can move around the floor by clicking on the numbers 1 to 6 on the left side of the screen.  
+    1F Hall  
+    2F Interactive 1  
+    3F Interactive 2  
+    4F Oral-ABCD  
+    5F Oral-EFG  
+    6F Oral-HJK  
+
+3. Use the meeting object  
+   A meeting object is set up for each oral presentation in the Q&A and interactive presentations. By connecting to the meeting object, you can talk and share the screen with all the connected participants.  
+   * Connect: Double-click the meeting object. If the connection is successful, a line will be drawn between the icon and the meeting object. (You need to be close to the meeting object to be able to connect.)  
+   * Disconnect: Automatically disconnects when the meeting object is a certain distance away.  
+   * Screen Sharing: Right click on the meeting object and the screen sharing icon will appear.
+
+4. operations in oVice  
+   * Rename: You can change the name by clicking on your icon.  
+   * Move frame: Sometimes a frame such as a poster covers your icon and you can't move it. In this case, drag the frame to move it. 
+
+### Please also refer to the following official oVice guides.
+
+[oVice usage guide](https://www.youtube.com/watch?v=C8r02gYDA50&t=3s)
+
+
+[oVice Demo](https://tour.ovice.in/)
+
+
+[oVice Help Center](https://ja.ovice.wiki/)
+
+
