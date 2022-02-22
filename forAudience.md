@@ -55,9 +55,8 @@
     * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
 5. 投票について
-    * 良かったと思う発表にはマップ上のイイねボタンをクリックしてください．
+    * 良かったと思う発表にはマップ上のイイねボタンをクリックしてください．![Image of the Like button](img/oVice_like_button.png)
         * 押すとブラウザの別タブが開き，「超イイね」と「イイね」へのリンクが現れます．
-	![Image of the Like button](img/oVice_like_button.png)
     * この投票が最優秀インタラクティブ賞・優秀インタラクティブ賞を決めますので，積極的な投票をお願いします．
     	* 身内の組織票はご遠慮ください．
     	* 一人複数回のクリックなどはカウントされません．
