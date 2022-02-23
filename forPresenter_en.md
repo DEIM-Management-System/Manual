@@ -20,7 +20,7 @@
 3. Wait with your presentation material (e.g., PPT slides) opened.
 4. **By 5 minutes before the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
 5. The chair starts the session on the staring time.
-    * During waiting, please turn off your microphone and video.
+    * During waiting, please turn off your microphone and camera.
 6. When your turn comes, you start your presentation by following the three steps below.
      1. Unmute the microphone.
      2. Turn on the camera if you have.
