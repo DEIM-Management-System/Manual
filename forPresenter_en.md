@@ -64,7 +64,7 @@
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
 ### Important notice
-- If a new sharing screen is started during the another sharing screen is on going in a Webex meeting, the precedent sharing screen is terminated. Thus, each presenter needs to start her/his sharing screen after the guide from the session chair.
+- If a new screen sharing starts during another screen sharing is in progress in a Webex meeting, the precedent sharing screen is unexpectedly ended. Thus, each presenter needs to start her/his sharing screen after the guide from the session chair.
 - **Regarding how DEIM treats "NO SHOW"**
 	- **In DEIM 2022, a presentation is recognized as completed when one of its authors BOTH "makes a presentation in the Webex session" AND "attends Q and A in the oVice venue." Otherwise, it's treated as "NO SHOW."**
 	- **The paper of "NO SHOW" will be removed from the program and not be included in the proceedings of the DEIM forum.**
