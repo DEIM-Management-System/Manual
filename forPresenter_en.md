@@ -3,10 +3,10 @@
 [<<Home](README.md)
 
 ## 【IMPORTANT】Regarding the new oral presentation style in DEIM 2022
-* In DEIM 2022, we don't have Q & A time after each presentation in Cisco Webex. Instead, however, after all presentations in a session done there, all presenters and attendees move to oVice and together have Q & A time there. The Q & A venue in oVice and its processes are the same as those of the online poster presentation.
+* In DEIM 2022, we don't have Q and A time after each presentation in Cisco Webex. Instead, however, after all presentations in a session done there, all presenters and attendees move to oVice and together have Q and A time there. The Q and A venue in oVice and its processes are the same as those of the online poster presentation.
 * The structure of each session (125 minutes or 150 minutes)
 	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
-	* **2nd half：Q & A in oVice**: The remaining time of the session
+	* **2nd half：Q and A in oVice**: The remaining time of the session
 
 ## Procedures of an oral presentation
 1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
@@ -33,18 +33,18 @@
 8. When you finish your presentation, following the chair's suggestions,
     1. Stop sharing your screen from the menu at the top of the screen, and
     2. Mute your microphone.
-10. You need to stay in the session after your presentation finished, since you have a Q & A time in oVice after all presentations finished.
-11. When all presentations finish, follow the guides from the session chair and organizers to move to oVice Q & A space.
+10. You need to stay in the session after your presentation finished, since you have a Q and A time in oVice after all presentations finished.
+11. When all presentations finish, follow the guides from the session chair and organizers to move to oVice Q and A space.
     * The URL of the oVice space will be provided in the chat space of the Webex meeting. Click it.
     * **Make sure to use "Google Chrome browser" for accessing oVice.**
-    * You also can access to the Q & A space at oVice by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
+    * You also can access to the Q and A space at oVice by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
     * When you first access to the oVice space, inputting your name is requested. Input your name as like **"A21-1:name_affiliation"**.
     	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
     * o	It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
-12. Now, you can leave from Webex meeting, and switch to oVice for Q & A.
-13. In the oVice venue, move to the Q & A booth allocated for your presentation.
+12. Now, you can leave from Webex meeting, and switch to oVice for Q and A.
+13. In the oVice venue, move to the Q and A booth allocated for your presentation.
     * After entering oVice, you can find cubicles with the numbering corresponding to your presentation number. Each presenter uses one cubicle (similar to a poster booth).
     	* e.g., The first presenter of J room use "J1" booth and the third presenter uses "J3".
 14. Click the inside of the cubicle to enter into the "oVice meeting room".
