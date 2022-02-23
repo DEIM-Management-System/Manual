@@ -84,7 +84,7 @@
 ![プレゼン](img/share2.png)
 
 ### How to optimize for "motion and video" in Webex.
-- This configuration is recommended if you have an video in your presentation.
-（プレゼンテーションに動画がある場合）
+- This configuration is recommended if you have a video in your presentation.
+
 ![プレゼン](img/share3.png)
 
