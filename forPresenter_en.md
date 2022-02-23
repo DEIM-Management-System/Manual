@@ -50,7 +50,7 @@
 14. Click the inside of the cubicle to enter into the "oVice meeting room".
     * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
     * Further, a shared screen is effective to the people inside the meeting room.
-    * **To leave from an oVice meeting room, click the following exit button at the bottom of the oVice screen.**
+    * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 15. When an audience comes in, enjoy discussion about your great presentation.
     1. Unmute the microphone.
