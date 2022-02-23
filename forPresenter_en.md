@@ -21,7 +21,7 @@
 4. **By 5 minutes befor the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
 5. The chair starts the session on the staring time.
     * During waiting, please turn off your microphone and video.
-6. When it is your turn to make a presentation, start your presentation by following the three steps below.
+6. When your turn comes, start your presentation by following the three steps below.
      1. Unmute the microphone
      2. Turn on the video
      3. Using the "Share Content" butto, share your entire screen or the window of your presentation material.
@@ -31,8 +31,7 @@
     * It's allowed that one of co-authors has the presentation instead of the first author. 
     * If a presentation is not shown in the allocated session, the paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
 8. 発表が終了したら，座長のアナウンスに従い，画面上部のメニューからコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)．また、マイクをOFFにする．
-9. 自身の発表が終わったらそのセッションに残ってください．セッションの最後にoVice上で纏めて質疑があります．
-    * もしチャット欄にどなたかからの有益なコメントがあれば，ミーティングから退席する前にチャットを保存しておくと良いと思います（ファイル→保存→チャット）．
+9. Stay in the session even after your presentation finished. You will have a Q & A time in oVice after all presentations finished.
 11. セッション内の発表全件が終わりますと，座長および運営からアナウンスがありますので，それに従ってoVice会場へ移ってください．
     * チャット欄に流されたoViceのURLをクリックしてください．oViceがブラウザで開かれます．**ブラウザは必ずChromeを使用してください．**
     * oViceでの質疑会場には，ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，そこの「質疑」ボタンからも入ることが出来ます．
