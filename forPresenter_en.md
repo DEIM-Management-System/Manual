@@ -22,8 +22,8 @@
 5. The chair starts the session on the staring time.
     * During waiting, please turn off your microphone and video.
 6. When your turn comes, you start your presentation by following the three steps below.
-     1. Unmute the microphone
-     2. Turn on the video
+     1. Unmute the microphone.
+     2. Turn on the camera if you have.
      3. Using the "Share Content" button, share your entire screen or the window of your presentation material.
 7. You make your presentation
     * **Time for each presentation: 15 minutes**
