@@ -11,14 +11,13 @@
 ## Procedures of an oral presentation
 1. **By 10 minutes befor the starting time**, the meeting room for each session becomes ready to enter.
 2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes befor the starting time, click "発表" button  to enter the [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room for your presentation.
-    * Webexを初めて使う際に名前の入力を求められます．**「A21-1:氏名_所属」「A21-1:氏名_研究室名」** のように，口頭発表番号を名前に付けて，ほかの参加者に分かるようにご登録ください．
-    * 一旦決定した名前を変更するには，Webex会議から退出している状態で表示名を変更する必要があります．
-    	* 名前を変更するには，Webex のホームページにアクセス，ログインし，左上のアイコンをクリックすると編集できるようになります．
-    * セッション開始前に一度画面共有の練習を行っておいてください．
-    * 予定されたWebex会議室へアクセスできない場合はポータルトップの案内をご確認ください．トラブルが起きてWebex会議室が立ち上がらなかった場合など，予備のWebex会議室へ移動になることがあります（アクセスURLが変更になります）．その場合はポータルトップへ緊急アナウンスを出します．
-    * **当日に何らかの理由で発表が困難な状況に陥っているなど，緊急で連絡が必要な場合は deim2022-inquiry@googlegroups.com にメールしてください．**
-    * Webexにアクセスできていてセッション直前でしたら，座長や学生アルバイトに口頭でお伝えください．
-1. 自身のパソコン上で，PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておいてください．
+    * When you firstly use Webex, the input of your name is required. Input your name as **"A21-1:full name_affiliation"** to show that you are a presenter.
+    * To change the name after once inputted it, you need to sign-out from Webex.
+    * Reccomend to have a practice before the real presentation.
+    	* The Webex meeting rooms for practice will be provided during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1< X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/).
+    * When we have some technical problems of the Webex meeting room, we show an announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use an backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can change.
+    * **If you have any difficulty to have your presentation on the day (before enter the Webex meeting room), please email to "deim2022-inquiry@googlegroups.com"．**
+3. 自身のパソコン上で，PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておいてください．
 2. セッション開始**5分前** までに座長が入り、発表者が揃っているか確認します．もし表示名が上記の形式になっていない場合は，マイクをONにして座長に話しかけ，その旨をお伝えください．
 3. 学生の発表者は学生プレゼンテーション賞の対象なので，座長から学生であるか確認があります．
 4. 座長がセッションを開始しますので，自身の発表順をお待ちください．
