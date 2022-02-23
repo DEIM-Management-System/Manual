@@ -29,7 +29,7 @@
     * **Time for each presentation: 15 minutes**
     * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
     * It's allowed that one of co-authors has the presentation instead of the first author. 
-    * If a presentation is not shown in the allocated session, the paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
+    * If a presentation is not shown in the allocated session, the paper is treated as "NO SHOW" and will not be included in the proceedings of the DEIM forum.
 8. When you finish your presentation, following the chair's suggestions,
     1. Stop sharing your screen from the menu at the top of the screen, and
     2. Mute your microphone.
@@ -64,10 +64,10 @@
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
 ### Important notice
-- 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてからコンテンツの共有を開始してください．
+- If a new sharing screen is started during the another sharing screen is on going, the precedent sharing screen is terminated. Thus, each presenter needs to start her/his sharing screen after the guide from the session chair.
 - **Regarding how DEIM treats "NO SHOW"**
 	- **In DEIM 2022, a presentation is recognized as completed when one of its authors BOTH "makes a presentation in the Webex session" AND "attends Q and A in the oVice venue." Otherwise, it's treated as "NO SHOW."**
-	- **The paper of "NO SHOW" will be removed from the program and not be included in the formal proceedings of the DEIM forum.**
+	- **The paper of "NO SHOW" will be removed from the program and not be included in the proceedings of the DEIM forum.**
 - DEIM organizers don't record the presentations. **Recording presentations are not allowed.**
 - Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
 
