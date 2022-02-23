@@ -72,18 +72,19 @@
 - Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
 
 ## Tips
-( Example of changing the display name in Webex )
+### Example of changing the display name in Webex
 
 ![名前の変更](img/rename1.png)
 ![名前の変更](img/rename2.png)
 
-（プレゼンテーション開始の例 / Example of Starting Presentation）
+### How to start sharing screen in a Webex meeting
 ![プレゼン](img/share1.png)
 
-（プレゼンテーション終了の例 / Example of Ending Presentation）
+### How to stop sharing screen
 ![プレゼン](img/share2.png)
 
-（モーションおよびビデオで最適化 / Optimization for Motion and Video）
+### How to optimize for "motion and video" in Webex.
+- This configuration is recommended if you have an video in your presentation.
 （プレゼンテーションに動画がある場合）
 ![プレゼン](img/share3.png)
 
