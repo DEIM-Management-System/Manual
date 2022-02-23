@@ -1,4 +1,6 @@
-## DEIM 2022のインタラクティブ発表形式について
+# How to have an Interactive Presentation at DEIM forum
+
+## Regarding the new implementation of interactive presentation in DEIM 2022
 * DEIM 2022はオンライン開催になりましたので，インタラクティブ発表もオンライン形式になります．
 * ツールはoViceを使用します．
 * 用意する必要がある発表資料は下記の通りです．
