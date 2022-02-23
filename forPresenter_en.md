@@ -15,25 +15,21 @@
     * To change the name after once inputted it, you need to sign-out from Webex.
     * Reccomend to have a practice before the real presentation.
     	* The Webex meeting rooms for practice will be provided during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1, X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/).
-    * When we have some technical problems of the Webex meeting room, we show an announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use an backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can change.
-    * **If you have any difficulty to have your presentation on the day (before enter the Webex meeting room), please email to "deim2022-inquiry@googlegroups.com"．**
-3. 自身のパソコン上で，PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておいてください．
-2. セッション開始**5分前** までに座長が入り、発表者が揃っているか確認します．もし表示名が上記の形式になっていない場合は，マイクをONにして座長に話しかけ，その旨をお伝えください．
-3. 学生の発表者は学生プレゼンテーション賞の対象なので，座長から学生であるか確認があります．
-4. 座長がセッションを開始しますので，自身の発表順をお待ちください．
-    * 待機中はマイクはミュート、カメラもOFFでお願いします（雑音防止と通信帯域節約のため）．
-    * セッションの進行は座長に一任されていますので，座長の指示がありましたら従ってください．
-    	* 他の発表者に通信トラブルが発生した場合など，座長の判断で発表順が入れ替わることがあります．ご承知おきください．
-6. 発表の順番になったら，Webex Meetingから，以下の３操作によりプレゼンテーションを開始してください．
-    1. マイクのミュートを解除
-    2.  インカメラをON
-    3.  「コンテンツの共有」ボタンから，プレゼンテーション資料，あるいは画面全体を選択
-    	* もし，プレゼンに動画が含まれている場合は，コンテンツの共有のオプション「モーションおよびビデオで最適化」を選んだ方がよい（下記）
-7. 研究発表を行ってください．
-    * **発表時間：15分**
-    * 運営がベルで時間経過をお知らせします： 1鈴：12分，2鈴：15分
-    * 発表者の都合が悪くなった場合は共著者の方が代理でご発表することも可能です．
-    * セッション時間内で発表が行われなかった場合は「NO SHOW」として扱われ，最終予稿集に不掲載となります．ご注意ください．
+    * When we have some technical issues of the Webex meeting room, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use a backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can be changed.
+    * **If you have any difficulty to have your presentation on the day (before entering the Webex meeting room), please email to "deim2022-inquiry@googlegroups.com"．**
+3. Wait with your presentation material (e.g., PPT slides) opened.
+4. **By 5 minutes befor the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
+5. The chair starts the session on the staring time.
+    * During waiting, please turn off your microphone and video.
+6. When it is your turn to make a presentation, start your presentation by following the three steps below.
+     1. Unmute the microphone
+     2. Turn on the video
+     3. Using the "Share Content" butto, share your entire screen or the window of your presentation material.
+7. Have your presentation
+    * **Time for each presentation: 15 minutes**
+    * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
+    * It's allowed that your co-author has the presentation instead of you (first author). 
+    * If you don't have your presentation in the allocated session, your paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
 8. 発表が終了したら，座長のアナウンスに従い，画面上部のメニューからコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)．また、マイクをOFFにする．
 9. 自身の発表が終わったらそのセッションに残ってください．セッションの最後にoVice上で纏めて質疑があります．
     * もしチャット欄にどなたかからの有益なコメントがあれば，ミーティングから退席する前にチャットを保存しておくと良いと思います（ファイル→保存→チャット）．
