@@ -45,30 +45,29 @@
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
 12. Now, you can quit from Webex meeting, and switch to oVice for Q & A.
 13. In the oVice venue, move to the Q & A booth allocated for your presentation.
-    * After entering oVice, you can find box-boothes with the numbers corresponding to your presentation number. Each presenter uses one box-booth (similar to a poster booth).
+    * After entering oVice, you can find cubicles with the numbering corresponding to your presentation number. Each presenter uses one cubicle (similar to a poster booth).
     	* e.g., The first presentter of J room use "J1" booth and the third presenter uses "J3".
-14. Click the inside of the box-booth to enter into the "oVice meeting room".
+14. Click the inside of the cubicle to enter into the "oVice meeting room".
     * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
-    * Further, the shared screen is effective to the people inside the meeting room.
+    * Further, a shared screen is effective to the people inside the meeting room.
     * **To exit from the oVice meeting room, click the following exit button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
-15. 質問者が来て質問・コメントされたら，それに応じて質疑を行ってください．
-    1. マイクのミュートを解除
-    2. インカメラをON
-    4. 発表資料を画面共有する．「コンテンツの共有」ボタンから，プレゼンテーション資料を選択
-    * oViceに移ってすぐに質疑を開始してもらって構いません．聴衆に自由に話しかけて質問・コメントを受けてください．
-    * 聴衆や座長・コメンテータとの質疑が一通り終わって時間が余りましたら，他の発表者と発表に関する研究議論を行っていただいて構いません．
-16. セッション終了時刻になりましたら，セッション終了のアナウンスが運営より流されます． 
-    * oViceからの退場はブラウザのWindowやタブを閉じることで行えます．
-    * oVice会場は休憩時間も使い続けられますので，発表者とのさらなる研究議論や，他の参加者との挨拶・雑談などにお使いください．
-17. 各セッションの掲示板にて質問やコメントが投稿されることがあるので，できる限り対応をお願いします．
+15. When an audience comes in, enjoy discussion about your great presentation.
+    1. Unmute the microphone.
+    2. Turn on camera
+    4. Share your presentation material. 「コンテンツの共有」ボタンから，プレゼンテーション資料を選択
+    * Soon after entering the おVice venue, you can start the Q and A.
+    * After answering all questions from the session chairs, comentater, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
+16. At the time of ending the session, an organizer announces the end of the session. 
+    * You can exit from the oVice venue by closing the browser tab or window.
+    * The oVice venue is available through the DEIM forum period, enjoy disucssion or chatting with other audiences.
+17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
-### 注意事項
+### Important notice
 - 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてからコンテンツの共有を開始してください．
-- **NO SHOWの取り扱いについて**
-	- **DEIM 2022においては、「Webexにおいてプレゼンをした ＋ oViceで質疑をした」の2点が揃うことで「発表をした」と見做します．**
-	- 共著者による発表も可能です．
-	- **NO SHOWの場合は，プログラムから削除され，最終予稿集に不掲載となります．** ご注意ください．
+- **Regarding how DEIM treats "NO SHOW"**
+	- **In DEIM 2022, a presentation is recognized as completed when one of its authors BOTH "makes a presentation in the Webex session" AND "attends Q and A in the oVice venue." Otherwise, it's treated as "NO SHOW."**
+	- **The paper of "NO SHOW" will be removed from the program and not be included in the formal proceedings of the DEIM forum. ** ご注意ください．
 - ~~外部にへの公開の予定はありませんが，発表の様子は録画されますので予めご了承ください．~~ DEIM運営によって発表が録画されることはありません（DEIM 2022から変更になりました）．
 - 各種アナウンスは原則ポータル上で行われますので，適宜ご確認ください．
 
