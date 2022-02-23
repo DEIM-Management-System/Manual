@@ -83,7 +83,7 @@
 ### How to stop sharing screen
 ![プレゼン](img/share2.png)
 
-### How to optimize for "motion and video" in Webex.
+### How to optimize for "motion and video" when you share a screen or a window in Webex.
 - This configuration is recommended if you have a video in your presentation.
 
 ![プレゼン](img/share3.png)
