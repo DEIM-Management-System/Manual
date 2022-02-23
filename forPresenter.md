@@ -83,7 +83,7 @@
 - ~~外部にへの公開の予定はありませんが，発表の様子は録画されますので予めご了承ください．~~ DEIM運営によって発表が録画されることはありません（DEIM 2022から変更になりました）．
 - 各種アナウンスは原則ポータル上で行われますので，適宜ご確認ください．
 
-# Tips
+## Tips
 （名前の変更の例 / Example of Changing Screen Name）
 
 ![名前の変更](img/rename1.png)
@@ -98,33 +98,3 @@
 （モーションおよびビデオで最適化 / Optimization for Motion and Video）
 （プレゼンテーションに動画がある場合）
 ![プレゼン](img/share3.png)
-
-
-# DEIM Manual for Oral Presenters (English version)
-
-1. 10 min. before the starting time of the session, from [DEIM2021 program]((https://cms.deim-forum.org/deim2021/program/)), you need to enter the conference room.
-    * When you enter it, you must name yourself as "A1-1: Firstname Familyname"_"Univ. Name" or "A1-1: Firstname Familyname"_"Lab. Name" to identify for participants.
-    * To change your name, access the home page of Webex and login, you can change your name by clicking the icon on the top left corner.
-    * Before starting the session, you should test shareing the screen.
-    * If you cannot access the scheduled Webex conference room, please check the information on the portal top.
-    * If a Webex conference room does not start up, you may be moved to a spare Webex conference room (access URL will be changed). In that case, an emergency announcement will be issued to the portal top.
-1. Launch your presentation materials such as PowerPoint.
-    * Students are eligible for the online presentation award, so the session chair will check you are a student or not.
-1. When you start the presentation:
-    * unmute your microphone
-    * turn on your in-camera
-    * select your presentation or whole screen from "share the contents"
-    * If you have some videos in your slides, you may select "Optimization for Motion and Video" in sharing option.
-1. After finishing your presentation, you need to answer questions from the session chair or participants.
-1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents.
-1. You can join the session as a participant.
-1. Before leaving the session, it is good for you to save chat by File->Save->Chat.
-1. Questions and comments may be posted on the bulletin board of each session.
-    * Please respond to them as much as possible.
-
-Note
-- You have 20 minutes including Q&A. But please prepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switching presentations takes time for a while.
-    * The timer will notify you in 12 min., 15 min., and 18 min.
-- If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
-- The presentation will be recorded.
-    * The videos will not be published to the outside.
