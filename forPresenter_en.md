@@ -44,13 +44,13 @@
     * We reccomend you to practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
 12. Now, you can quit from Webex meeting, and switch to oVice for Q & A.
-13. In the oVice, move to the Q & A booth allocated for your presentation.
-    * oViceへ入りますと，そこには発表順ごとのブースが用意されています．各発表者はそこで待機します．オンラインポスター発表と同様の形式です．
-    	* （例）J会場の1番目の発表者は「J1」，3番目の発表者は「J3」に入って待機します．
-14. ブースの四角い「oVice会議室」の内側をクリックし，ブースに入ります．
-    * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
-      * マイクやカメラは常時ONでも構いません．また，画面共有を開始しておいても大丈夫です．
-    * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
+13. In the oVice venue, move to the Q & A booth allocated for your presentation.
+    * After entering oVice, you can find box-boothes with the numbers corresponding to your presentation number. Each presenter uses one box-booth (similar to a poster booth).
+    	* e.g., The first presentter of J room use "J1" booth and the third presenter uses "J3".
+14. Click the inside of the box-booth to enter into the "oVice meeting room".
+    * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
+    * Further, the shared screen is effective to the people inside the meeting room.
+    * **To go out from the oVice meeting room, click the following quit button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
 15. 質問者が来て質問・コメントされたら，それに応じて質疑を行ってください．
     1. マイクのミュートを解除
