@@ -21,28 +21,30 @@
 4. **By 5 minutes befor the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
 5. The chair starts the session on the staring time.
     * During waiting, please turn off your microphone and video.
-6. When your turn comes, start your presentation by following the three steps below.
+6. When your turn comes, you start your presentation by following the three steps below.
      1. Unmute the microphone
      2. Turn on the video
      3. Using the "Share Content" butto, share your entire screen or the window of your presentation material.
-7. Make your presentation
+7. You make your presentation
     * **Time for each presentation: 15 minutes**
     * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
     * It's allowed that one of co-authors has the presentation instead of the first author. 
     * If a presentation is not shown in the allocated session, the paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
-8. 発表が終了したら，座長のアナウンスに従い，画面上部のメニューからコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)．また、マイクをOFFにする．
-9. Stay in the session even after your presentation finished. You will have a Q & A time in oVice after all presentations finished.
-11. セッション内の発表全件が終わりますと，座長および運営からアナウンスがありますので，それに従ってoVice会場へ移ってください．
-    * チャット欄に流されたoViceのURLをクリックしてください．oViceがブラウザで開かれます．**ブラウザは必ずChromeを使用してください．**
-    * oViceでの質疑会場には，ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，そこの「質疑」ボタンからも入ることが出来ます．
-    * oViceを初めて使う際に名前の入力を求められます．こちらも **「A21-1:氏名_所属」「A21-1:氏名_研究室名」という形式** でご登録ください．
-    	* 一旦設定した名前を変更するには、画面上の自分のアイコンをクリックすれば設定画面が表示されます．
-    	* 口頭発表とインタラクティブ発表を両方おこなう方は，インタラクティブ発表のときは「day2-p11:氏名_所属」「day2-p11:氏名_研究室名」という形式に名前を変更願います．
-    * oViceでDEIMの各フロアに入る際に，デバイスの使用許可（マイクとカメラ）と通知の許可が求められます．許可を与えてください．
-    * セッション開始前に一度oViceの操作の練習を行っておいてください．oVice会場は当日朝までには準備を終えて，本番同様の状態にしておく予定です．
-        * また，2月24日と25日の二日間に，練習用のoVice会場を用意する予定です．
-12. Webexの「退席」ボタンによりミーティングから退席して，先ほど開いたブラウザ上のoViceへ移ります．
-13. oVice上で質疑応答ブースに移動します．
+8. When you finish your presentation, following the chair's suggestions,
+    1. Stop sharing your screen from the menu at the top of the screen, and
+    2. Mute your microphone.
+10. You need to stay in the session after your presentation finished, since you have a Q & A time in oVice after all presentations finished.
+11. When all presentations finish, follow the guides from the session chair and organizers to move to oVice Q & A space.
+    * The URL of the oVice space will be provided in the chat space of the Webex meeting. Click it.
+    * **Make sure to use "Google Chrome browser" for accessing oVice.**
+    * You also can access to the Q & A space at oVice by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
+    * When you first access to the oVice space, inputting your name is requested. Input your name as like **"A21-1:name_affiliation"**.
+    	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
+    * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
+    * We reccomend you to practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
+        * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
+12. Now, you can quit from Webex meeting, and switch to oVice for Q & A.
+13. In the oVice, move to the Q & A booth allocated for your presentation.
     * oViceへ入りますと，そこには発表順ごとのブースが用意されています．各発表者はそこで待機します．オンラインポスター発表と同様の形式です．
     	* （例）J会場の1番目の発表者は「J1」，3番目の発表者は「J3」に入って待機します．
 14. ブースの四角い「oVice会議室」の内側をクリックし，ブースに入ります．
