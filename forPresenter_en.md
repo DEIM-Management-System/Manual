@@ -4,9 +4,9 @@
 
 ## 【IMPORTANT】Regarding the new oral presentation style in DEIM 2022
 * In DEIM 2022, we don't have Q & A time after each presentation in Cisco Webex. Instead, however, after all presentations in a session done there, all presenters and attendees move to oVice and together have Q & A time there. The Q & A venue in oVice and its processes are the same as those of the online poster presentation.
-	* The structure of each session (125 minutes or 150 minutes)
-		* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
-		* **2nd half：Q & A in oVice**: The remaining time of the session
+* The structure of each session (125 minutes or 150 minutes)
+	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
+	* **2nd half：Q & A in oVice**: The remaining time of the session
 
 ## Procedures of an oral presentation
 1. **By 10 minutes befor the starting time**, the meeting room for each session becomes ready to enter.
