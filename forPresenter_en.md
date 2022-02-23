@@ -73,6 +73,7 @@
 
 ## Tips
 ### Example of changing the display name in Webex
+- Note, you need to exit from a Webex meeting to change the display name. So far we know, there is no menu to change the display name inside of a meeting.
 
 ![名前の変更](img/rename1.png)
 ![名前の変更](img/rename2.png)
