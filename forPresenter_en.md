@@ -50,7 +50,7 @@
 14. Click the inside of the box-booth to enter into the "oVice meeting room".
     * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
     * Further, the shared screen is effective to the people inside the meeting room.
-    * **To go out from the oVice meeting room, click the following quit button at the bottom of the oVice screen.**
+    * **To exit from the oVice meeting room, click the following exit button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
 15. 質問者が来て質問・コメントされたら，それに応じて質疑を行ってください．
     1. マイクのミュートを解除
