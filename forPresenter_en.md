@@ -12,7 +12,7 @@
 1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
 2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes before the starting time, click "発表会場" button  to enter the [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room for your presentation.
     * When you firstly use Webex, the input of your name is required. Input your name as **"A21-1:name_affiliation"** to show that you are a presenter.
-    * To change the name after once inputted it, you need to sign-out from Webex.
+    * To change the name after once inputted it, you need to leave from a Webex meeting. See the bottom Tips section for further details.
     * o	It’s a good idea to have a practice before the real presentation.
     	* The Webex meeting rooms for practice are available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1, X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
     * When we have some technical issues of the Webex meeting room, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use a backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can be changed.
@@ -43,7 +43,7 @@
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
     * o	It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
-12. Now, you can quit from Webex meeting, and switch to oVice for Q & A.
+12. Now, you can leave from Webex meeting, and switch to oVice for Q & A.
 13. In the oVice venue, move to the Q & A booth allocated for your presentation.
     * After entering oVice, you can find cubicles with the numbering corresponding to your presentation number. Each presenter uses one cubicle (similar to a poster booth).
     	* e.g., The first presenter of J room use "J1" booth and the third presenter uses "J3".
@@ -59,7 +59,7 @@
     * Soon after entering the oVice venue, you can start the Q and A.
     * After answering all questions from the session chairs, the commentator, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
 16. At the time of ending the session, an organizer announces the end of the session. 
-    * You can exit from the oVice venue by closing the browser tab or window.
+    * You can leave from the oVice venue by closing the browser tab or window.
     * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
@@ -73,7 +73,7 @@
 
 ## Tips
 ### Example of changing the display name in Webex
-- Note, you need to exit from a Webex meeting to change the display name. So far we know, there is no menu to change the display name inside of a meeting.
+- Note, you need to leave from a Webex meeting to change the display name. So far we know, there is no menu to change the display name inside of a meeting.
 
 ![名前の変更](img/rename1.png)
 ![名前の変更](img/rename2.png)
