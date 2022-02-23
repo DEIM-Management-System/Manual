@@ -55,8 +55,8 @@
 15. When an audience comes in, enjoy discussion about your great presentation.
     1. Unmute the microphone.
     2. Turn on camera
-    4. Share your presentation material. 「コンテンツの共有」ボタンから，プレゼンテーション資料を選択
-    * Soon after entering the おVice venue, you can start the Q and A.
+    4. Share your presentation material.
+    * Soon after entering the oVice venue, you can start the Q and A.
     * After answering all questions from the session chairs, the commentator, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can exit from the oVice venue by closing the browser tab or window.
