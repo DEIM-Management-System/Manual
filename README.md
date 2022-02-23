@@ -3,7 +3,7 @@
 ## Manuals for presenters or audiences
 - [How to have an Oral Presentation at DEIM forum](forPresenter_en.md)
 
-## セッション進行に関するマニュアル
+## セッション参加のマニュアル
 - [口頭発表者用](forPresenter.md)
 - [インタラクティブ発表者用](forPosterPresenter.md)
 - [一般参加者（聴講者）用](forAudience.md)
