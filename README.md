@@ -1,9 +1,9 @@
 # DEIM オンライン会議　マニュアル
 
-## Manuals for presenters or audiences
+## Manuals for presenters or audiences (English)
 - [How to have an Oral Presentation at DEIM forum](forPresenter_en.md)
 
-## セッション参加のマニュアル
+## セッション参加のマニュアル（日本語）
 - [口頭発表者用](forPresenter.md)
 - [インタラクティブ発表者用](forPosterPresenter.md)
 - [一般参加者（聴講者）用](forAudience.md)
