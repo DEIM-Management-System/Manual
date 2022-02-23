@@ -67,11 +67,12 @@
 - 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてからコンテンツの共有を開始してください．
 - **Regarding how DEIM treats "NO SHOW"**
 	- **In DEIM 2022, a presentation is recognized as completed when one of its authors BOTH "makes a presentation in the Webex session" AND "attends Q and A in the oVice venue." Otherwise, it's treated as "NO SHOW."**
-	- **The paper of "NO SHOW" will be removed from the program and not be included in the formal proceedings of the DEIM forum. ** ご注意ください．
-- ~~外部にへの公開の予定はありませんが，発表の様子は録画されますので予めご了承ください．~~ DEIM運営によって発表が録画されることはありません（DEIM 2022から変更になりました）．
-- 各種アナウンスは原則ポータル上で行われますので，適宜ご確認ください．
+	- **The paper of "NO SHOW" will be removed from the program and not be included in the formal proceedings of the DEIM forum.**
+- DEIM organizers don't record the presentations. **Recording presentations are not allowed.**
+- Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
 
-（名前の変更の例 / Example of Changing Screen Name）
+## Tips
+( Example of changing the display name in Webex )
 
 ![名前の変更](img/rename1.png)
 ![名前の変更](img/rename2.png)
