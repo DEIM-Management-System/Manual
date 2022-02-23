@@ -25,7 +25,7 @@
      1. Unmute the microphone
      2. Turn on the video
      3. Using the "Share Content" butto, share your entire screen or the window of your presentation material.
-7. Have your presentation
+7. Make your presentation
     * **Time for each presentation: 15 minutes**
     * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
     * It's allowed that one of co-authors has the presentation instead of the first author. 
