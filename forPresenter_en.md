@@ -9,22 +9,22 @@
 	* **2nd half：Q & A in oVice**: The remaining time of the session
 
 ## Procedures of an oral presentation
-1. **By 10 minutes befor the starting time**, the meeting room for each session becomes ready to enter.
-2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes befor the starting time, click "発表会場" button  to enter the [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room for your presentation.
-    * When you firstly use Webex, the input of your name is required. Input your name as **"A21-1:full name_affiliation"** to show that you are a presenter.
+1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
+2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes before the starting time, click "発表会場" button  to enter the [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room for your presentation.
+    * When you firstly use Webex, the input of your name is required. Input your name as **"A21-1:name_affiliation"** to show that you are a presenter.
     * To change the name after once inputted it, you need to sign-out from Webex.
-    * Reccomend to have a practice before the real presentation.
+    * o	It’s a good idea to have a practice before the real presentation.
     	* The Webex meeting rooms for practice are available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1, X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
     * When we have some technical issues of the Webex meeting room, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use a backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can be changed.
     * **If you have any difficulty to have your presentation on the day (before entering the Webex meeting room), please email to "deim2022-inquiry@googlegroups.com"．**
 3. Wait with your presentation material (e.g., PPT slides) opened.
-4. **By 5 minutes befor the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
+4. **By 5 minutes before the starting time**, the session chair of the session enters into the meeting room, and check whether all the presenters are there or not.
 5. The chair starts the session on the staring time.
     * During waiting, please turn off your microphone and video.
 6. When your turn comes, you start your presentation by following the three steps below.
      1. Unmute the microphone
      2. Turn on the video
-     3. Using the "Share Content" butto, share your entire screen or the window of your presentation material.
+     3. Using the "Share Content" button, share your entire screen or the window of your presentation material.
 7. You make your presentation
     * **Time for each presentation: 15 minutes**
     * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
@@ -41,12 +41,12 @@
     * When you first access to the oVice space, inputting your name is requested. Input your name as like **"A21-1:name_affiliation"**.
     	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
-    * We reccomend you to practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
+    * o	It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
 12. Now, you can quit from Webex meeting, and switch to oVice for Q & A.
 13. In the oVice venue, move to the Q & A booth allocated for your presentation.
     * After entering oVice, you can find cubicles with the numbering corresponding to your presentation number. Each presenter uses one cubicle (similar to a poster booth).
-    	* e.g., The first presentter of J room use "J1" booth and the third presenter uses "J3".
+    	* e.g., The first presenter of J room use "J1" booth and the third presenter uses "J3".
 14. Click the inside of the cubicle to enter into the "oVice meeting room".
     * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
     * Further, a shared screen is effective to the people inside the meeting room.
@@ -57,10 +57,10 @@
     2. Turn on camera
     4. Share your presentation material. 「コンテンツの共有」ボタンから，プレゼンテーション資料を選択
     * Soon after entering the おVice venue, you can start the Q and A.
-    * After answering all questions from the session chairs, comentater, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
+    * After answering all questions from the session chairs, the commentator, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can exit from the oVice venue by closing the browser tab or window.
-    * The oVice venue is available through the DEIM forum period, enjoy disucssion or chatting with other audiences.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
 ### Important notice
