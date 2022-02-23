@@ -45,8 +45,8 @@
         * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
 12. Now, you can leave from Webex meeting, and switch to oVice for Q and A.
 13. In the oVice venue, move to the Q and A booth allocated for your presentation.
-    * After entering oVice, you can find cubicles with the numbering corresponding to your presentation number. Each presenter uses one cubicle (similar to a poster booth).
-    	* e.g., The first presenter of J room use "J1" booth and the third presenter uses "J3".
+    * After entering oVice, you can find cubicles with the numbering corresponding to your presentation order. Each presenter uses one cubicle (similar to a poster booth).
+    	* e.g., The first presenter of J room uses "J1" cubicle and the third presenter uses "J3" cubicle.
 14. Click the inside of the cubicle to enter into the "oVice meeting room".
     * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
     * Further, a shared screen is effective to the people inside the meeting room.
