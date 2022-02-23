@@ -14,7 +14,7 @@
     * When you firstly use Webex, the input of your name is required. Input your name as **"A21-1:full name_affiliation"** to show that you are a presenter.
     * To change the name after once inputted it, you need to sign-out from Webex.
     * Reccomend to have a practice before the real presentation.
-    	* The Webex meeting rooms for practice will be provided during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1< X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/).
+    	* The Webex meeting rooms for practice will be provided during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "口頭発表練習" sessions (X1, Y1, X2, Y2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/).
     * When we have some technical problems of the Webex meeting room, we show an announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use an backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can change.
     * **If you have any difficulty to have your presentation on the day (before enter the Webex meeting room), please email to "deim2022-inquiry@googlegroups.com"．**
 3. 自身のパソコン上で，PowerPoint等のプレゼンテーションアプリを用いて，自分のプレゼンテーション資料を立ち上げておいてください．
