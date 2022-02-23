@@ -28,8 +28,8 @@
 7. Have your presentation
     * **Time for each presentation: 15 minutes**
     * Bells inform you the progress of your time: one bell: 12 minutes, two bells: 15 minutes
-    * It's allowed that your co-author has the presentation instead of you (first author). 
-    * If you don't have your presentation in the allocated session, your paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
+    * It's allowed that one of co-authors has the presentation instead of the first author. 
+    * If a presentation is not shown in the allocated session, the paper is treated as "NO SHOW" and will not be included in the formal proceedings of the DEIM forum.
 8. 発表が終了したら，座長のアナウンスに従い，画面上部のメニューからコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)．また、マイクをOFFにする．
 9. 自身の発表が終わったらそのセッションに残ってください．セッションの最後にoVice上で纏めて質疑があります．
     * もしチャット欄にどなたかからの有益なコメントがあれば，ミーティングから退席する前にチャットを保存しておくと良いと思います（ファイル→保存→チャット）．
