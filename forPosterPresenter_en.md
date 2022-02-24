@@ -8,6 +8,7 @@
       * Create in 16:9 horizontal size in PowerPoint, etc.
       * This poster is put at your poster booth in the oVice venue.
    2. **The slides for your interactive presentation**
+      * In the oVice venue, you have your presentation by sharing your screen or window of this presentation slides.
       * You can reuse the above one-page poster, or can use other material such as PowerPoint slides (multiple pages are allowed).
       * Recommend 16:9 horizontal size 
 
