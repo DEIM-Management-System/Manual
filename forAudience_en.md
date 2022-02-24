@@ -51,7 +51,7 @@
 4. 質問するには、各ポスターブースの「oVice会議室」へ入る必要があります．四角い枠の中をクリックすることで入れます．
     * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
     * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
-	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
+	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 5. 投票について
     * 良かったと思う発表にはマップ上のイイねボタンをクリックしてください．	
         * ![Image of the Like button](img/oVice_like_button.png) これを押すとブラウザの別タブが開き，「超イイね」と「イイね」へのリンクが現れます．
