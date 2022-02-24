@@ -94,7 +94,7 @@
 
 4. Ohter operations in oVice  
    * Rename: You can change the name by clicking on your icon.  
-   * Voting: Click the "Like" button on the map to vote for the best presentation in the interactive session.  **Vote: Please click the "Like" button on the map for the presentation you think is good in the interactive session. This vote will decide the Best Interactive Award and the Best Interactive Award. ** ! 
+   * Voting: Click the "Like" button on the map to vote for the best presentation in the interactive session.  Vote: Please click the "Like" button on the map for the presentation you think is good in the interactive session. This vote will decide the Best Interactive Award and the Best Interactive Award.   
         * ![Image of the Like button](img/oVice_like_button.png) Clicking this button will open another tab of your browser, and links to "Super Like" and "Like" will appear.
         * Please refrain from organizational votes by your relatives.
         * Multiple clicks by one person will not be counted.
