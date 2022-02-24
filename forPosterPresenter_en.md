@@ -45,11 +45,8 @@
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
 ### Important notice
-- インタラクティブセッションの時間内で，oViceのポスター会場で姿が全く確認できなかった場合は **NO SHOWとして扱われます**．
-    - ポスターブースから離れる場合は，表示されている発表者の名前が **「day2-p11:氏名_所属」** などとなっていることを確認してください．別の名前になっていると，会場にいることが座長に伝わりません．
-- **NO SHOWの取り扱いについて**
-   - **DEIM 2022のインタラクティブ発表においては、「oVice上でインタラクティブ発表をして，参加者と研究議論を行った」ことで「発表をした」と見做します．**
-       - 共著者による発表も可能です．
-   - インタラクティブ発表の時間中は，自身に割り当てられたポスターブースの付近に滞在しておいてください．座長／コメンテータ／運営が順に回って，NO SHOWの確認をします．
-   - **NO SHOWの場合は，プログラムから削除され，最終予稿集に不掲載となります．ご注意ください．**
-- 各種アナウンスは原則ポータル上で行われますので，適宜ご確認ください．
+- **Regarding how DEIM treats "NO SHOW"**
+	- **In DEIM 2022, an interactive presentation is recognized as completed when one of its authors "makes a presentation in the oVice venue and discusses with audiences." Otherwise, it's treated as "NO SHOW."**
+	- **The paper of "NO SHOW" will be removed from the program and not be included in the proceedings of the DEIM forum.**
+- DEIM organizers don't record the presentations. **Recording presentations are not allowed.**
+- Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
