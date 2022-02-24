@@ -1,11 +1,11 @@
 # How to have an Interactive Presentation at DEIM forum
 
 ## Regarding the new implementation of interactive presentation in DEIM 2022
-* DEIM 2022はオンライン開催になりましたので，インタラクティブ発表もオンライン形式になります．
-* ツールはoViceを使用します．
-* 用意する必要がある発表資料は下記の通りです．
-   1. **発表資料概要版（PDFで1枚，事前提出が必要）**
-      * PowerPoint などで16:9横長の大きさで作成．
+* Since DEIM 2022 adopted online style  completely due to Covid-19 problem, the intaractive sessions will be held online.
+* [oVice](https://ovice.in/) is used for intaractive sessions.
+* Each presenter need to prepare the following materials.
+   1. **The abstract of the study (1 page poster in PDF format, pre-submit is required)**
+      * Create in 16:9 horizontal size in PowerPoint, etc.
       * これは会場に常時設置するポスターの代わりになります．
       * 会場に設置する権限が運営にしかないので事前提出していただきます．
    3. **インタラクティブ発表で使用する発表スライド**
