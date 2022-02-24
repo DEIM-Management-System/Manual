@@ -31,7 +31,7 @@
 6. 質問をするには発表者のブースへ行き、「oVice会議室」へ入る必要があります．四角い枠の中をクリックすることで入れます．
     * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
     * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
-	![Image of the quit button from meeting](img/oVice_meeting_quit_button.png)
+	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 7. セッション終了時刻になりましたら，セッション終了のアナウンスが運営より流されます． 
     * oVice会場は休憩時間も使い続けられますので，発表者とのさらなる研究議論や，他の参加者との挨拶・雑談などにお使いください．
 
