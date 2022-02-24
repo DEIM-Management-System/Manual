@@ -1,22 +1,14 @@
-# DEIM 一般参加者（聴講者）向けマニュアル
+# How to join DEIM sessions as an audience
 
 [<<Home](README.md)
 
-## 【重要！】DEIM 2022での新しい口頭発表形式について
-* DEIM 2022ではWebexで研究発表をした際には質疑を行わず，1セッションの全ての発表が終わったら全員でoViceへ移動して，そこでまとめて質疑を行います．oVice内の質疑会場はオンラインポスター発表と同様の会場で，質疑の進行もポスター発表と同様です．
-	* 各セッションの構成（125分 or 150分）
-		* **前半：Webexで口頭発表**：1件15分の発表 × 4～6件（60～90分）
-		* **後半：oVice上での質疑**：1セッション分まとめて残り時間一杯
-	* 狙い
-		1. 質疑への若手の参加機会の拡大：大勢が見ている中で顔も見えない状態での質疑は，若い人には「場違いでは無いか」と感じられて難しいという声がありました．また，質疑の時間が短いので，座長から1件とコメンテータから1件の質問が出ると質疑の時間が終わってしまうということがありました．
-		3. コミュニティ内での会話機会創出：過去2年のDEIMのオンライン開催では，会議が終わるとWebexから退出するので，研究者間のコミュニケーション機会が非常に少なかったという声がありました．質疑によってoViceへ移動する人の流れを作ることで，そこが会話の場として使われることを狙っています．
-	* 参加者の皆様へのお願い
-		* 発表終了後は座長と運営のアナウンスに従ってoVice会場へ移り，継続して質疑応答にご参加ください．
-		* oVice上での質疑は，時間を十分にとってありますので，若い研究者の皆様も座長やベテラン研究者に遠慮する必要はありません．むしろ「若い者順」ぐらいの気持ちで発表者達へ沢山質問をしてみてください．**真剣に質疑する経験が皆様の研究能力の向上に必ず役に立つと思います．**
-		* セッション終了後などもoVice会場は使えますので，お知合いの研究者や新しい研究者の方々とコミュニケーションをお楽しみいただければと思います．
+## 【IMPORTANT】Regarding the new oral presentation style in DEIM 2022
+* In DEIM 2022, we don't have Q and A time after each presentation in Cisco Webex. Instead, however, after all presentations in a session done there, all presenters and attendees move to oVice and together have Q and A time there. The Q and A venue in oVice and its processes are the same as those of the online poster presentation.
+* The structure of each session (125 minutes or 150 minutes)
+	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
+	* **2nd half：Q and A in oVice**: The remaining time of the session
 
-
-## 口頭発表セッション参加の流れ
+##  Procedures to attend an oral presentation session
 1. 各セッションのWebex会議室は遅くとも**開始時刻の10分前までには準備されます** ．
 2. ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，[Webex Meeting](https://mediafiles.webex.com/ja/downloads.html)のセッションの会議室に入ってください．
     * Webexを初めて使う際に名前の入力を求められます．**「氏名_所属」という形式**でご登録ください．一旦決定した名前を変更するには，Webex会議から退出している状態で表示名を変更する必要があります．
