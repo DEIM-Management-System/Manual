@@ -18,8 +18,8 @@
     * When you first access to the oVice space, inputting your name is requested. Input your name as like **"day2-p11:name_affiliation"**.
     	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
-    * It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
-        * Further, the oVice venue has already been ready. You can make a practice there. Access your session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
+    * It’s a good idea to have a practice how to use the oVice venue before the real session.
+        * The oVice venue has already been ready. You can make a practice there. Access your session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
 2. **By 10 minutes before the starting time**, find your session in [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) and click "発表会場" button  to enter the oVice venue for your interactive presentation.
     * When we have some technical issues of the oVice venue, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
     * **If you have any difficulty to have your presentation on the day (before entering the oVice venue), please email to "deim2022-inquiry@googlegroups.com"．**
