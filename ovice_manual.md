@@ -72,13 +72,14 @@
 # DEIM Manual for oVice (English version)
 1. Enter oVice  
   Enter your name in the space, check the box for consent, and click Next. Next, you will be asked to set the speaker, microphone, and camera settings. You will also be asked for permission to use the microphone and camera from your browser when you enter the room or move to the floor, so please enter the room with permission.  
-    * If you are a presenter, please register your name as "A21-1:Firstname Familyname Univ. Name" or "A21-1:Firstname Familyname Lab. Name", and add your presentation number to your name so that other participants can recognize you. Participants are requested to register as "Firstname Familyname Affiliation Name". You can change your name at any time by clicking on your icon after entering the room.  
+    * If you are a presenter, please register your name as "A21-1:Firstname Familyname Univ. Name" or "A21-1:Firstname Familyname Lab. Name", and add your presentation number to your name so that other participants can recognize you. Chairpersons are requested to register as "A13 Chairperson: Name_affiliation", commentators as "F31 Commentator: Name_affiliation", and participants as "Name_affiliation". You can change your name at any time by clicking on your icon after entering the room.  
+    * If you are a university faculty member, please put an ★ in front of your name. (Example) "A21-1:★Shohei Yokoyama_Tokyo Metropolitan University".
     
 2. Moving in oVice  
   You can move by "dragging your icon" or "double-clicking where you want to go". The black circle you see when you drag the icon is the area where you can hear. Move so that the presenter, company booth, or person you want to talk to is within the black circle. Once the person you want to talk to is within the black circle, turn on the camera and microphone as appropriate and start a conversation (the camera and microphone are off when you enter the room).  
     * Depending on the size of your display, the oVice room may not be fully displayed. Please scroll to the desired location by scrolling horizontally or vertically in your browser.  
     * You can move around the floor by clicking on the numbers 1 to 6 on the left side of the screen.  
-    1F Hall  
+    1F Discussion Hall  
     2F Interactive 1  
     3F Interactive 2  
     4F Oral-ABCD  
