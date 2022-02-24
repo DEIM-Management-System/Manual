@@ -41,12 +41,20 @@
    * 名前の変更：自分のアイコンをクリックすることで変更することができます．  
    
    ![名前の変更](img/ovice_name_change.png)
+   
+   
+   * 投票:インタラクティブセッションで，良かったと思う発表にはマップ上のイイねボタンをクリックしてください．  **この投票が最優秀インタラクティブ賞・優秀インタラクティブ賞を決めますので，積極的な投票をお願いします．** 
+        * ![Image of the Like button](img/oVice_like_button.png) これを押すとブラウザの別タブが開き，「超イイね」と「イイね」へのリンクが現れます．
+        * 身内の組織票はご遠慮ください．
+        * 一人複数回のクリックなどはカウントされません．
+        * その他，受賞対象の発表については，不正な投票行為が無かったか最終的には人手でチェックされます．
+
 
    * フレームの移動：ポスターなどのフレームがアイコンの上に覆いかぶさって，移動ができなくなることがあります．その際はフレームをドラッグしてフレームを移動させてください． 
 　  
    ![フレームの移動](img/ovice_frame_move.png)
    
-
+   
     
 
 ### 以下のoVice公式ガイド等もご参考にしてください
@@ -85,6 +93,11 @@
 
 4. Ohter operations in oVice  
    * Rename: You can change the name by clicking on your icon.  
+   * Voting: Click the "Like" button on the map to vote for the best presentation in the interactive session.  **Vote: Please click the "Like" button on the map for the presentation you think is good in the interactive session. This vote will decide the Best Interactive Award and the Best Interactive Award. ** ! 
+        * ![Image of the Like button](img/oVice_like_button.png) Clicking this button will open another tab of your browser, and links to "Super Like" and "Like" will appear.
+        * Please refrain from organizational votes by your relatives.
+        * Multiple clicks by one person will not be counted.
+        * Other announcements that are eligible for awards will be checked manually to ensure that there has been no fraudulent voting.
    * Move frame: Sometimes a frame such as a poster covers your icon and you can't move it. In this case, drag the frame to move it. 
 
 ### Please also refer to the following official oVice guides.
