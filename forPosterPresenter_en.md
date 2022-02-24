@@ -48,5 +48,5 @@
 - **Regarding how DEIM treats "NO SHOW"**
 	- **In DEIM 2022, an interactive presentation is recognized as completed when one of its authors "makes a presentation in the oVice venue and discusses with audiences." Otherwise, it's treated as "NO SHOW."**
 	- **The paper of "NO SHOW" will be removed from the program and not be included in the proceedings of the DEIM forum.**
-- DEIM organizers don't record the presentations. **Recording presentations are not allowed.**
+- DEIM organizers don't record the presentations. **Further, recording presentations are not allowed.**
 - Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
