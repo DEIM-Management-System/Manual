@@ -72,7 +72,7 @@
 # DEIM Manual for oVice (English version)
 1. Enter oVice  
   Enter your name in the space, check the box for consent, and click Next. Next, you will be asked to set the speaker, microphone, and camera settings. You will also be asked for permission to use the microphone and camera from your browser when you enter the room or move to the floor, so please enter the room with permission.  
-    * If you are a presenter, please register your name as "A21-1:Firstname Familyname Univ. Name" or "A21-1:Firstname Familyname Lab. Name", and add your presentation number to your name so that other participants can recognize you. Chairpersons are requested to register as "A13 Chairperson: Name_affiliation", commentators as "F31 Commentator: Name_affiliation", and participants as "Name_affiliation". You can change your name at any time by clicking on your icon after entering the room.  
+    * If you are a presenter, please register your name as "A21-1:Name_affiliation" or "A21-1:Name_labname", and add your presentation number to your name so that other participants can recognize you. Chairpersons are requested to register as "A13 Chairperson: Name_affiliation", commentators as "F31 Commentator: Name_affiliation", and participants as "Name_affiliation". You can change your name at any time by clicking on your icon after entering the room.  
     * If you are a university faculty member, please put an ★ in front of your name. (Example) "A21-1:★Shohei Yokoyama_Tokyo Metropolitan University".
     
 2. Moving in oVice  
