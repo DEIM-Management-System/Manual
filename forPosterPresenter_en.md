@@ -3,7 +3,7 @@
 ## Regarding the new implementation of interactive presentation in DEIM 2022
 * Since DEIM 2022 adopted online style  completely due to Covid-19 problem, the intaractive sessions will be held online.
 * [oVice](https://ovice.in/) is used for intaractive sessions.
-* Each presenter need to prepare the following materials.
+* Each presenter needs to prepare the following materials.
    1. **The abstract of the study (1 page poster in PDF format, pre-submit is required)**
       * Create in 16:9 horizontal size in PowerPoint, etc.
       * This poster is put at your poster booth in the oVice venue.
@@ -19,36 +19,32 @@
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
     * It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
         * Further, the oVice venue has already been ready. You can make a practice there. Access your session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
-2. 自身の割り当てられたインタラクティブ発表のセッションの開始時刻10分前までに，ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，oViceへ入ってください．
-    * 予定されたoVice会場へアクセスできない場合はポータルトップの案内をご確認ください．トラブルが起きてoViceが使えない場合などが代替手段が使われる可能性があります．その場合はポータルトップへ緊急アナウンスを出します．
-    * **当日に何らかの理由で発表が困難な状況に陥っているなど，緊急で連絡が必要な場合は deim2022-inquiry@googlegroups.com にメールしてください．**
-        * oViceに入れている場合は，座長・コメンテータや運営にお伝えください．
-3. oVice上ではポスター番号毎にブースが用意されています．自身のポスター番号に対応する発表ブースでお待ちください．
-    * 事前に提出された1枚物のPDFファイルが当該ブースに埋め込まれています．PDFファイルを開いてみて，自身のファイルかご確認ください．
-    * もしファイルが違っていたら，座長か運営スタッフにお知らせください．
-4. ブースの四角い「oVice会議室」の内側をクリックし，ブースに入ります．
-    * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
-      * マイクやカメラは常時ONでも構いません．また，画面共有を開始しておいても大丈夫です．
-    * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
+2. **By 10 minutes before the starting time**, find your session in [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) and click "発表会場" button  to enter the oVice venue for your intaractive presentation.
+    * When we have some technical issues of the oVice venue, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
+    * **If you have any difficulty to have your presentation on the day (before entering the oVice venue), please email to "deim2022-inquiry@googlegroups.com"．**
+3. In the oVice venue, a dedicated poster booth is allocated for each presenter. Move to your booth to wait.
+    * Confirm that your pre-submitted one page poster is put at the booth.
+    * If the poster is not yours, please notify to the session chair or organizers.
+4. Click the inside of the cubicle at the booth to enter into the "oVice meeting room".
+    * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
+    * Further, a shared screen is effective to the people inside the meeting room.
+    * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
-5. インタラクティブセッション開始**5分前** までに座長が入り，発表者が揃っているか確認します．もし表示名が上記の形式になっていない場合は，座長に近づいてマイクのミュートを解除して話しかけ，その旨をお伝えください．
-6. 座長もしくは運営がセッションを開始しますので，あとは物理開催のポスター発表の要領でインタラクティブ発表を行ってください．
-    * セッションの進行は座長に一任されていますので，座長の指示がありましたら従ってください．
-    * インタラクティブ発表へのアドバイス
-    	* 「研究を聞かせてください」と言ってきた聴衆の方へ，15分掛かるプレゼンを延々と聞かせるのは避けた方が良いです．インタラクティブセッションの時間が1時間で，その時間内に多くのインタラクティブ発表を伺いたい方もおられると思います．長くても2～3分で概要を説明して，そこで一旦区切り，「手法のさらなる詳細を説明しましょうか？」など聴衆の希望を伺うのがスマートです．
-7. 投票について
-    * 研究に関する説明や質疑が終わったら，イイねボタンへのクリックを呼び掛けて貰っても構いません．	
-        * ![Image of the Like button](img/oVice_like_button.png) これを押すとブラウザの別タブが開き，「超イイね」と「イイね」へのリンクが現れます．
-    * **この投票が最優秀インタラクティブ賞・優秀インタラクティブ賞を決めます．**
-    	* 身内の組織票はご遠慮ください．
-    	* 一人複数回のクリックなどはカウントされません．
-    	* その他，受賞対象の発表については，不正な投票行為が無かったか最終的には人手でチェックされます．
-8. セッション終了時刻になりましたら，セッション終了のアナウンスが運営より流されます． 
-    * oViceからの退場はブラウザのWindowやタブを閉じることで行えます．
-    * oVice会場は休憩時間も使い続けられますので，発表者とのさらなる研究議論や，他の参加者との挨拶・雑談などにお使いください．
-9. 各セッションの掲示板にて質問やコメントが投稿されることがあるので，できる限り対応をお願いします．
+5. **By 5 minutes before the starting time**, the session chair of the session enters into the oVice venue, and check whether all the presenters are there or not.
+7. The session chair or organizers start the session. Now, you can enjoy presenting your study to audiences and the discussion with them as a physical poster presentation.
+8. Regarding voting
+    * There is a button to "Like" links. You can promote it to your audience.	
+        * ![Image of the Like button](img/oVice_like_button.png) When an audience click it, a new tab or a new window opens in your brwowser to navigate to the links of "Like" and "much Like".
+    * **This vote determines the Best Interactive Award and the Excellent Interactive Awards.**
+    	* The vote from same affiliation is invalid.
+    	* Multiple click from the same person is uncounted.
+    	* For the presentations nominated as award candidates, the details of votes will be manually checked.
+16. At the time of ending the session, an organizer announces the end of the session. 
+    * You can leave from the oVice venue by closing the browser tab or window.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
+17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
 
-### 注意事項
+### Important notice
 - インタラクティブセッションの時間内で，oViceのポスター会場で姿が全く確認できなかった場合は **NO SHOWとして扱われます**．
     - ポスターブースから離れる場合は，表示されている発表者の名前が **「day2-p11:氏名_所属」** などとなっていることを確認してください．別の名前になっていると，会場にいることが座長に伝わりません．
 - **NO SHOWの取り扱いについて**
