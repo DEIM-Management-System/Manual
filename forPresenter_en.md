@@ -61,7 +61,7 @@
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
     * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
-17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply them.
+17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply to them.
 
 ### Important notice
 - If a new screen sharing starts during another screen sharing is in progress in a Webex meeting, the precedent sharing screen is unexpectedly ended. Thus, each presenter needs to start her/his sharing screen after the guide from the session chair.
