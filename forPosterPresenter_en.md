@@ -32,13 +32,13 @@
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 5. **By 5 minutes before the starting time**, the session chair of the session enters into the oVice venue, and check whether all the presenters are there or not.
 7. The session chair or organizers start the session. Now, you can enjoy presenting your study to audiences and the discussion with them as a physical poster presentation.
-8. Regarding voting
-    * There is a button to "Like" links. You can promote it to your audience.	
-        * ![Image of the Like button](img/oVice_like_button.png) When an audience click it, a new tab or a new window opens in your brwowser to navigate to the links of "Like" and "much Like".
-    * **This vote determines the Best Interactive Award and the Excellent Interactive Awards.**
-    	* The vote from same affiliation is invalid.
-    	* Multiple click from the same person is uncounted.
-    	* For the presentations nominated as award candidates, the details of votes will be manually checked.
+8. Regarding vote ("Like" button)
+    * There is a button to "Like" links. You can promote it to audiences after your presentation.	
+        * ![Image of the Like button](img/oVice_like_button.png) When an audience click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
+    * **Note, this vote determines the Best Interactive Award and the Excellent Interactive Awards.**
+    	* The vote from the same affiliation with you is uncounted.
+    	* Multiple click from the same audience is uncounted.
+    	* For the presentations nominated as award candidates, the details of the votes will be strictly checked.
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
     * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
