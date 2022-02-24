@@ -6,22 +6,19 @@
 * Each presenter need to prepare the following materials.
    1. **The abstract of the study (1 page poster in PDF format, pre-submit is required)**
       * Create in 16:9 horizontal size in PowerPoint, etc.
-      * これは会場に常時設置するポスターの代わりになります．
-      * 会場に設置する権限が運営にしかないので事前提出していただきます．
-   3. **インタラクティブ発表で使用する発表スライド**
-      * PowerPointなどで作成したもの．上記の概要版を流用しても構わないし，複数ページでも構わない（自由です）．
-      * 3～5分程度で研究内容を紹介可能なもの．
-      * スライドのサイズは16：9を推奨． 
+      * This poster is put at your poster booth in the oVice venue.
+   2. **The slides for your intaractive presentation**
+      * You can reuse the above one-page poster, or can use other material such as PowerPoint slides (multiple pages are allowed).
+      * Recommend 16:9 horizontal size 
 
 ## Procedures of an interactive presentation
-1. oViceへのアクセスについて
-    * **oViceへのアクセスには必ずChromeを使用してください．**
-    * oViceを初めて使う際に名前の入力を求められます．**「day2-p11:氏名_所属」「day2-p11:氏名_研究室名」** のように，ポスター番号を名前に付けて，ほかの参加者に分かるようにご登録ください．
-    	* **大学教員の方は氏名の前に★印をつけてください．**（例）「day2-p11：★横山昌平_東京都立大学」
-    	* 一旦設定した名前を変更するには、画面上の自分のアイコンをクリックすれば設定画面が表示されます．
-    * oViceでDEIMの各フロアに入る際に，デバイスの使用許可（マイクとカメラ）と通知の許可が求められます．許可を与えてください．
-    * セッション開始前に一度oViceの操作の練習を行っておいてください．oVice会場は当日朝までには準備を終えて，本番同様の状態にしておく予定です．
-        * また，2月24日と25日の二日間に，練習用のoVice会場を用意する予定です．プログラムの「[Z1] インタラクティブ練習」からお入りください．
+1. Regarding access to oVice
+    * **Make sure to use "Google Chrome browser" for accessing oVice.**
+    * When you first access to the oVice space, inputting your name is requested. Input your name as like **"day2-p11:name_affiliation"**.
+    	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
+    * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
+    * It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
+        * Further, the oVice venue has already been ready. You can make a practice there. Access your session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
 2. 自身の割り当てられたインタラクティブ発表のセッションの開始時刻10分前までに，ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，oViceへ入ってください．
     * 予定されたoVice会場へアクセスできない場合はポータルトップの案内をご確認ください．トラブルが起きてoViceが使えない場合などが代替手段が使われる可能性があります．その場合はポータルトップへ緊急アナウンスを出します．
     * **当日に何らかの理由で発表が困難な状況に陥っているなど，緊急で連絡が必要な場合は deim2022-inquiry@googlegroups.com にメールしてください．**
