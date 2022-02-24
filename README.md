@@ -3,6 +3,7 @@
 ## Manuals for presenters or audiences (English)
 - [How to have an **Oral Presentation** at DEIM forum](forPresenter_en.md)
 - [How to have an **Interactive Presentation** at DEIM forum (i.e., **Poster Presentation**)](forPosterPresenter_en.md)
+- [How to join DEIM sessions as an audience](forAudience_en.md)
   - Sorry. The translation is still on going.
 
 ## セッション参加のマニュアル（日本語）
