@@ -41,8 +41,8 @@
     * When you first access to the oVice space, inputting your name is requested. Input your name as like **"A21-1:name_affiliation"**.
     	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
-    * o	It’s a good idea to have a practice how to use the oVice venue before the real session. The oVice venue is ready by the morning of each session day.
-        * Further, the oVice venue for practice is available during 9:00am - 5:00pm on Feb. 24th and 25th. You can find "インタラクティブ練習" sessions (Z1 and Z2) on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/). Click the "会場" button to enter.
+    * It’s a good idea to have a practice how to use the oVice venue before the real session.
+        * The oVice venue has already been ready. You can make a practice there. Access your session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "質疑会場" button to enter.
 12. Now, you can leave from Webex meeting, and switch to oVice for Q and A.
 13. In the oVice venue, move to the Q and A booth allocated for your presentation.
     * After entering oVice, you can find cubicles with the numbering corresponding to your presentation order. Each presenter uses one cubicle (similar to a poster booth).
