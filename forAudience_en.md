@@ -8,7 +8,7 @@
 	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
 	* **2nd half：Q and A in oVice**: The remaining time of the session
 
-##  Procedures to attend an oral session
+##  Procedures to attend an oral presentation session
 1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
 2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes before the starting time, click the "発表会場" button of the research session you want to attend in order to enter its [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room.
     * When you firstly use Webex, the input of your name is required. Input your name as **"name_affiliation"** to show that you are a presenter.
