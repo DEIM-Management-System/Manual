@@ -13,7 +13,7 @@
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing the oVice window. Even if a presenter interrupts her/his presentation or Q and A in the middle, it will not be any kind of disadvantage for the presenter. Don't forget running away has higher priority.
     2. Report to deim2022-program-chair@googlegroups.com.
-* If you see any harassment to other audiences / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters, please report to the above address.
 
 ## Procedures of an oral presentation
 1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
@@ -59,15 +59,15 @@
     * Further, a shared screen is effective to the people inside the meeting room.
     * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
-15. When an audience comes in, enjoy discussion about your great presentation.
+15. When a participant comes in, enjoy discussion about your great presentation.
     1. Unmute the microphone.
     2. Turn on camera
     4. Share your presentation material.
     * Soon after entering the oVice venue, you can start the Q and A.
-    * After answering all questions from the session chairs, the commentator, and audiences, if you still have the remaining time, you can enjoy discussion with other presenters.
+    * After answering all questions from the session chairs, the commentator, and participants, if you still have the remaining time, you can enjoy discussion with other presenters.
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
-    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other participants.
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply to them.
 
 ### Important notice
