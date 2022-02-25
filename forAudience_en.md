@@ -12,7 +12,7 @@
 ## When you are harassed / see harassment
 * DEIM never tolerate any form of harassment of presenters / participants.
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
-    1. Escape with all your might, such as closing oVice window.
+    1. Escape with all your might, such as closing the oVice window.
     2. Report to deim2022-program-chair@googlegroups.com.
 * If you see any harassment to other audiences / presenters, please report to the above address.
 
