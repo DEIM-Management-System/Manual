@@ -70,7 +70,7 @@
     * [山下記念研究賞 選考アンケート用紙（2022年3月1日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform)
     * [山下記念研究賞 選考アンケート用紙（2022年3月2日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform)
 
-### Important notice
+## Other notices
 - DEIM organizers don't record the presentations.
 - **Recording presentations is not allowed.**
 - Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
