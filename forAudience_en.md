@@ -66,9 +66,9 @@
 
 ## After joining sessions
 1. Please vote for [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita.html) if you find excellent studies in DEIM 2022. During the voting process from the following URLs, **make sure to input the same email address used to access DEIM portal (Otherwise, the vote becomes invalid).**
-    * [山下記念研究賞 選考アンケート用紙（2022年2月28日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfhLHi7wVKaZqSyOS_z7Kc4JYIGXXOaYfjlcKjhJ5aqNrLpxA/viewform)
-    * [山下記念研究賞 選考アンケート用紙（2022年3月1日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform)
-    * [山下記念研究賞 選考アンケート用紙（2022年3月2日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform)
+    * [IPSJ Yamashita SIG Research Award Selection Questionnaire (for presentations on Feb. 28th)](https://docs.google.com/forms/d/e/1FAIpQLSfhLHi7wVKaZqSyOS_z7Kc4JYIGXXOaYfjlcKjhJ5aqNrLpxA/viewform)
+    * [IPSJ Yamashita SIG Research Award Selection Questionnaire (for presentations on Mar. 1st)](https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform)
+    * [IPSJ Yamashita SIG Research Award Selection Questionnaire (for presentations on Mar. 2nd)](https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform)
 
 ## Other notices
 - DEIM organizers don't record the presentations.
