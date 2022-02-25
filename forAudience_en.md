@@ -8,34 +8,36 @@
 	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
 	* **2nd half：Q and A in oVice**: The remaining time of the session
 
-##  Procedures to attend an oral presentation session
-1. 各セッションのWebex会議室は遅くとも**開始時刻の10分前までには準備されます** ．
-2. ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，[Webex Meeting](https://mediafiles.webex.com/ja/downloads.html)のセッションの会議室に入ってください．
-    * Webexを初めて使う際に名前の入力を求められます．**「氏名_所属」という形式**でご登録ください．一旦決定した名前を変更するには，Webex会議から退出している状態で表示名を変更する必要があります．
-    	* **大学教員の方は氏名の前に★印をつけてください．**（例）「★横山昌平_東京都立大学」
-    * 予定されたWebex会議室へアクセスできない場合はポータルトップの案内をご確認ください．トラブルが起きてWebex会議室が立ち上がらなかった場合など，予備のWebex会議室へ移動になることがあります（アクセスURLが変更になります）．その場合はポータルトップへ緊急アナウンスを出します．
-3. Webex会議室での研究発表については，上記に書きましたように質疑は行われません．
-    * 質疑はセッションの最後に，全発表分を纏めてoVice上で行われます．
-4. セッション内の発表全件が終わりますと，座長および運営からアナウンスがありますので，それに従ってoVice会場へ移り，そこで継続して質疑応答にご参加ください．
-    * **oViceへのアクセスには必ずChromeを使用してください．**
-    * oViceでの質疑会場には，ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，そこの「質疑会場」ボタンからも入ることが出来ます．
-    * oViceを初めて使う際に名前の入力を求められます．こちらも **「氏名_所属」という形式** でご登録ください．
-    	* **大学教員の方は氏名の前に★印をつけてください．**（例）「★横山昌平_東京都立大学」
-    	* 一旦設定した名前を変更するには、画面上の自分のアイコンをクリックすれば設定画面が表示されます．
-    * oViceでDEIMの各フロアに入る際に，デバイスの使用許可（マイクとカメラ）と通知の許可が求められます．許可を与えてください．
-    * セッション開始前に一度oViceの操作の練習を行っておいてください．質疑用のoVice会場は，2月24日18:00時点で準備が完了して本番同様の状態になっています．
-        * [DEIM 2022プログラム](https://cms.dbsj.org/deim2022/program/)から，各口頭発表セッションの「質疑会場」ボタンから入ることができます．ご自由に練習ください．
-5. 活発に質疑をお楽しみください． 
-    * oViceへ入りますと，そこには発表順ごとのブースになっており，各発表者がそこで待機しています．オンラインポスター発表と同様の形式です．
-    * 発表者の用意が出来ていればoViceに移ってすぐに質疑を開始してもらって構いません．発表者に自由に話しかけて質問・コメントをお伝えください．
-6. 質問をするには発表者のブースへ行き、「oVice会議室」へ入る必要があります．四角い枠の中をクリックすることで入れます．
-    * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
-    * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
+##  Procedures to attend an oral session
+1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
+2. Access to [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/) until 10 minutes before the starting time, click the "発表会場" button of the research session you want to attend in order to enter its [Webex](https://mediafiles.webex.com/ja/downloads.html) meeting room.
+    * When you firstly use Webex, the input of your name is required. Input your name as **"name_affiliation"** to show that you are a presenter.
+        * To change the name after once inputted it, you need to leave from a Webex meeting. See the bottom Tips section for further details.
+    * When we have some technical issues of the Webex meeting room, we show an emergency announcement at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/). There is a chance that we use a backup meeting room when the original meeting room has a trouble. In that case, the URL of the meeting room can be changed.
+3. Note, we don't have Q and A time in the presentations at Webex meeting room as mentioned above.
+    * After all presentations have been given in each session, a Q & A time will be held at the oVice venue.
+4. When all presentations finish, follow the guides from the session chair and organizers to move to the Q and A space in the oVice venue.
+    * The URL of the oVice space will be provided in the chat space of the Webex meeting. Click it.
+    * **Make sure to use "Google Chrome browser" for accessing oVice.**
+    * You also can access to the Q and A space in the oVice venue by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
+    * When you first access to the oVice venue, input of your name is required. Input your name as like **"name_affiliation"**.
+    	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
+    * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
+    * It’s a good idea to have a practice how to use the oVice venue before the real session.
+        * The oVice venue has already been ready. You can make a practice there. Access some session on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "質疑会場" button to enter.
+5. Enjoy discussions with presenters. 
+    * In the oVice venue, a Q and A booth is allocated to each presenter.
+    * You can quickly start asking questions to the presenters if they are ready.
+6. To ask a question, you need to click the inside of the cubicle of each booth to enter into the "oVice meeting room".
+    * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
+    * Further, a shared screen is effective to the people inside the meeting room.
+    * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
-7. セッション終了時刻になりましたら，セッション終了のアナウンスが運営より流されます． 
-    * oVice会場は休憩時間も使い続けられますので，発表者とのさらなる研究議論や，他の参加者との挨拶・雑談などにお使いください．
+7. At the time of ending the session, an organizer announces the end of the session. 
+    * You can leave from the oVice venue by closing the browser tab or window.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 
-## インタラクティブセッション参加の流れ
+## Procedures to attend an intaractive session
 1. 各インタラクティブセッションのoVice会場は，遅くともセッション当日の朝には準備が完了している予定です．
     * 一枚ものの常設ポスターも設置されていますので，いつでもoViceに入ってご覧いただけます． 
 2. ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，oViceのインタラクティブ会場に入ってください．
