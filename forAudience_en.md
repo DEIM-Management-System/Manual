@@ -64,16 +64,11 @@
     * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 
 
-## セッション後には
-1. 山下記念研究賞への積極的な投票をお願いします．なお，投票時に記す**メールアドレスは必ずDEIMにサインアップしたもの**をお使いください（違うと投票が無効となります）．
+## After joining sessions
+1. Please vote for [IPSJ Yamashita SIG Research Award](https://www.ipsj.or.jp/award/yamashita.html) if you find excellent studies in DEIM 2022. During the voting process from the following URLs, **make sure to input the smae email address used to acess DEIM portal (Otherwise, the vote becomes invalid).**
     * [山下記念研究賞 選考アンケート用紙（2022年2月28日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfhLHi7wVKaZqSyOS_z7Kc4JYIGXXOaYfjlcKjhJ5aqNrLpxA/viewform)
     * [山下記念研究賞 選考アンケート用紙（2022年3月1日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSfrYJdKqJYCJr0UZ5UkwkfWvjIgT5RRaGN-VSeUCUXdBjUhLg/viewform)
     * [山下記念研究賞 選考アンケート用紙（2022年3月2日発表分）](https://docs.google.com/forms/d/e/1FAIpQLSf06d6Bfptm2Gl_WTWFNSWnDw_NNXGHweJzPkUEUuWhe1NhSg/viewform)
-3. 時間が無くてoViceにおいて質問できなかったことについては，各セッションの「掲示板」にて投稿することができます．
-    * セッションのページの左上「購読する」を On にすることで，ポータルからスレッドを参照できるようになります．
-4. 積極的に掲示板での議論をしたり，良いと思った研究に対して「いいね」「超いいね」ボタンを押してください．
-    * これらの統計情報をもとに「注目研究賞」が決定されます．
-    * 積極的に活性化してくださった聴講者には感謝状を授与する予定です．
 
 ### Important notice
 - DEIM organizers don't record the presentations.
