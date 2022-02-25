@@ -37,32 +37,31 @@
     * You can leave from the oVice venue by closing the browser tab or window.
     * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 
-## Procedures to attend an intaractive session
-1. 各インタラクティブセッションのoVice会場は，遅くともセッション当日の朝には準備が完了している予定です．
-    * 一枚ものの常設ポスターも設置されていますので，いつでもoViceに入ってご覧いただけます． 
-2. ブラウザで[DEIM2022プログラム](https://cms.dbsj.org/deim2022/program/)を開き，「発表会場」というボタンを押し，oViceのインタラクティブ会場に入ってください．
-    * oViceへのアクセスには**必ずChromeを使用してください．**
-    * oViceを初めて使う際に名前の入力を求められます．こちらも **「氏名_所属」という形式** でご登録ください．一旦設定した名前を変更するには、画面上の自分のアイコンをクリックすれば設定画面が表示されます．
-    	* **大学教員の方は氏名の前に★印をつけてください．**（例）「★横山昌平_東京都立大学」
-    * oViceでDEIMの各フロアに入る際に，デバイスの使用許可（マイクとカメラ）と通知の許可が求められます．許可を与えてください．
-    * 事前に一度oViceの操作の練習を行っていただくのが望ましいかもしれません．質疑用のoVice会場は，2月24日18:00時点で準備が完了して本番同様の状態になっています．
-        * [DEIM 2022プログラム](https://cms.dbsj.org/deim2022/program/)から，各インタラクティブセッションの「発表会場」ボタンから入ることができます．ご自由に練習ください．
-3. 活発に質疑をお楽しみください． 
-    * oViceへ入りますと，そこには発表順ごとのブースになっており，各発表者がそこで待機しています．オンラインポスター発表と同様の形式です．
-    * 発表者の用意が出来ていればoViceに移ってすぐに質疑を開始してもらって構いません．発表者に自由に話しかけて質問・コメントをお伝えください．
-4. 質問するには、各ポスターブースの「oVice会議室」へ入る必要があります．四角い枠の中をクリックすることで入れます．
-    * 「oVice会議室」では、内部の声が外部に漏れません。逆も漏れないので，混線の心配がありません．また画面共有が会議室内でだけ共有されます．
-    * **oVice会議室から出るのには，画面下部の以下のボタンを押してください．**
+## Procedures to attend an interactive session
+1. Find the interactive session you are joining on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
+    * **Make sure to use "Google Chrome browser" for accessing oVice.**
+    * When you first access to the oVice space, inputting your name is requested. Input your name as like **"name_affiliation"**.
+    	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
+    * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
+    * It’s a good idea to have a practice how to use the oVice venue before the real session.
+        * The oVice venue has already been ready. You can make a practice there.
+2. Find a poster booth corresponding to the presentation you want to listen. 
+    * In the oVice venue, a poster booth is allocated to each presenter. The ID shown at each booth corresponds to the ID on the program.
+3. To ask a question, you need to click the inside of the cubicle of each booth to enter into the "oVice meeting room".
+    * The functionality of "meeting room" in oVice isolates the inside of the room from the outside. Your conversation doesn't go out, and outside conversation doesn't come in.
+    * Further, a shared screen is effective to the people inside the meeting room.
+    * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
-5. 投票について
-    * 良かったと思う発表にはマップ上のイイねボタンをクリックしてください．	
-        * ![Image of the Like button](img/oVice_like_button.png) これを押すとブラウザの別タブが開き，「超イイね」と「イイね」へのリンクが現れます．
-    * **この投票が最優秀インタラクティブ賞・優秀インタラクティブ賞を決めますので，積極的な投票をお願いします．**
-    	* 身内の組織票はご遠慮ください．
-    	* 一人複数回のクリックなどはカウントされません．
-    	* その他，受賞対象の発表については，不正な投票行為が無かったか最終的には人手でチェックされます．
-7. セッション終了時刻になりましたら，セッション終了のアナウンスが運営より流されます． 
-    * oVice会場は休憩時間も使い続けられますので，発表者とのさらなる研究議論や，他の参加者との挨拶・雑談などにお使いください．
+4. Regarding vote ("Like" button)
+    * There is a button to "Like" links. If the presentation was nice, please click it to show your appreciation.	
+        * ![Image of the Like button](img/oVice_like_button.png) When you click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
+    * **Note, this vote determines the Best Interactive Award and the Excellent Interactive Awards.**
+    	* The vote from the same affiliation with you is uncounted.
+    	* Multiple clicks from the same audience are uncounted.
+    	* For the presentations nominated as award candidates, the details of the votes will be strictly checked.
+5. At the time of ending the session, an organizer announces the end of the session. 
+    * You can leave from the oVice venue by closing the browser tab or window.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
 
 
 ## セッション後には
