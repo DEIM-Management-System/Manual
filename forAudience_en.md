@@ -1,4 +1,4 @@
-# How to join DEIM sessions as an audience
+# How to join DEIM sessions as a participant
 
 [<<Home](README.md)
 
@@ -14,7 +14,7 @@
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing the oVice window.
     2. Report to deim2022-program-chair@googlegroups.com.
-* If you see any harassment to other audiences / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters, please report to the above address.
 
 
 ##  Procedures to attend an oral presentation session
@@ -44,7 +44,7 @@
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 7. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
-    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other participants.
 
 ## Procedures to attend an interactive session
 1. Find the interactive session you are joining on [DEIM 2022 program](https://cms.dbsj.org/deim2022/program/), and click the "発表会場" button to enter.
@@ -66,11 +66,11 @@
         * ![Image of the Like button](img/oVice_like_button.png) When you click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
     * **Note, this vote determines the Best Interactive Award and the Excellent Interactive Awards.**
     	* The vote from the same affiliation with you is uncounted.
-    	* Multiple clicks from the same audience are uncounted.
+    	* Multiple clicks from the same participant are uncounted.
     	* For the presentations nominated as award candidates, the details of the votes will be strictly checked.
 5. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
-    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other participants.
 
 
 ## After joining sessions
