@@ -34,11 +34,11 @@
     1. Stop sharing your screen from the menu at the top of the screen, and
     2. Mute your microphone.
 10. You need to stay in the session after your presentation finished, since you have a Q and A time in oVice after all presentations finished.
-11. When all presentations finish, follow the guides from the session chair and organizers to move to oVice Q and A space.
+11. When all presentations finish, follow the guides from the session chair and organizers to move to the Q and A space in the oVice venue.
     * The URL of the oVice space will be provided in the chat space of the Webex meeting. Click it.
     * **Make sure to use "Google Chrome browser" for accessing oVice.**
-    * You also can access to the Q and A space at oVice by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
-    * When you first access to the oVice space, inputting your name is requested. Input your name as like **"A21-1:name_affiliation"**.
+    * You also can access to the Q and A space in the oVice venue by opening [DEIM2022 program](https://cms.dbsj.org/deim2022/program/) and clicking the "質疑会場" button of your session.
+    * When you first access to the oVice venue, input of your name is required. Input your name as like **"A21-1:name_affiliation"**.
     	* To change your name after once inputted, click your icon on the oVice screen to open the window of settings.
     * When entering each floor of oVice DEIM venue, oVice requires the allowance to use microphone and camera. Click "allow".
     * It’s a good idea to have a practice how to use the oVice venue before the real session.
