@@ -9,7 +9,7 @@
 	* **2nd half：Q and A in oVice**: The remaining time of the session
 
 
-## When you are harassed
+## When you are harassed / see harassment
 * DEIM never tolerate any form of harassment of presenters / participants.
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing oVice window.
