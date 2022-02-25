@@ -18,7 +18,7 @@
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing the oVice window. Even if a presenter interrupts her/his presentation or Q and A in the middle, it will not be any kind of disadvantage for the presenter. Don't forget running away has higher priority.
     2. Report to deim2022-program-chair@googlegroups.com.
-* If you see any harassment to other audiences / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters, please report to the above address.
 
 
 ## Procedures of an interactive presentation
@@ -41,22 +41,22 @@
     * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
 5. **By 5 minutes before the starting time**, the session chair of the session enters into the oVice venue, and checks whether all the presenters are there or not.
-7. The session chair or organizers start the session. Now, you can enjoy presenting your study to audiences and the discussion with them as a physical poster presentation.
+7. The session chair or organizers start the session. Now, you can enjoy presenting your study to participants and the discussion with them as a physical poster presentation.
 8. Regarding voting ("Like" button)
-    * There is a button to "Like" links. You can promote it to audiences after your presentation.	
-        * ![Image of the Like button](img/oVice_like_button.png) When an audience click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
+    * There is a button to "Like" links. You can promote it to participants after your presentation.	
+        * ![Image of the Like button](img/oVice_like_button.png) When a participant click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
     * **Note, this vote determines the Best Interactive Award and the Excellent Interactive Awards.**
     	* The vote from the same affiliation with you is uncounted.
-    	* Multiple clicks from the same audience are uncounted.
+    	* Multiple clicks from the same participant are uncounted.
     	* For the presentations nominated as award candidates, the details of the votes will be strictly checked.
 16. At the time of ending the session, an organizer announces the end of the session. 
     * You can leave from the oVice venue by closing the browser tab or window.
-    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other audiences.
+    * The oVice venue is available through the DEIM forum period, enjoy discussion or chatting with other participants.
 17. After presentation, you may receive questions about your study on the bulletin board for each session. Try to reply to them.
 
 ### Important notice
 - **Regarding how DEIM treats "NO SHOW"**
-	- **In DEIM 2022, an interactive presentation is recognized as completed when one of its authors "makes a presentation in the oVice venue and discusses with audiences." Otherwise, it's treated as "NO SHOW."**
+	- **In DEIM 2022, an interactive presentation is recognized as completed when one of its authors "makes a presentation in the oVice venue and discusses with participants." Otherwise, it's treated as "NO SHOW."**
 	- **The paper of "NO SHOW" will be removed from the program and not be included in the proceedings of the DEIM forum.**
 - DEIM organizers don't record the presentations. **Further, recording presentations is not allowed.**
 - Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
