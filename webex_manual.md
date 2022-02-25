@@ -15,6 +15,16 @@ Webexを初めて使う際に名前の入力を求められます．
 ![rename1](img/rename7.png)
 ![rename1](img/rename8.png)
 
+* Webexでのプレゼンテーションの方法  
+（プレゼンテーション開始の例 / Example of Starting Presentation）
+![プレゼン](img/share1.png)
+
+（プレゼンテーション終了の例 / Example of Ending Presentation）
+![プレゼン](img/share2.png)
+
+（モーションおよびビデオで最適化 / Optimization for Motion and Video）
+（プレゼンテーションに動画がある場合）
+![プレゼン](img/share3.png)
 
 ### 以下のWebex公式ガイド等もご参考にしてください
 
