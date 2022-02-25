@@ -75,7 +75,7 @@
     * これらの統計情報をもとに「注目研究賞」が決定されます．
     * 積極的に活性化してくださった聴講者には感謝状を授与する予定です．
 
-## 注意事項
-- 発表は録画禁止です．
-- ~~外部にへの公開の予定はありませんが，発表の様子は録画されますので予めご了承ください．~~ DEIM運営によって発表が録画されることはありません（DEIM 2022から変更になりました）．
-- 各種アナウンスは原則ポータル上で行われますので，適宜ご確認ください．
+### Important notice
+- DEIM organizers don't record the presentations.
+- **Recording presentations is not allowed.**
+- Important notices through the DEIM forum period will be shown at the top of [DEIM portal](https://cms.dbsj.org/deim2022/program/).
