@@ -12,6 +12,15 @@
       * You can reuse the above one-page poster, or can use other material such as PowerPoint slides ( **multiple pages are allowed** ).
       * Recommend 16:9 horizontal size 
 
+
+## When you are harassed
+* DEIM never tolerate any form of harassment of presenters / participants.
+* If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
+    1. Escape with all your might, such as closing oVice window. Even if a presenter interrupts her/his presentation or Q and A in the middle, it will not be any kind of disadvantage for the presenter. Don't forget running away has higher priority.
+    2. Report to deim2022-program-chair@googlegroups.com.
+* If you see any harassment to other audiences / presenters, please report to the above address.
+
+
 ## Procedures of an interactive presentation
 1. Regarding access to oVice
     * **Make sure to use "Google Chrome browser" for accessing oVice.**
