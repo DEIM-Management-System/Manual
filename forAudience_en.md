@@ -52,7 +52,7 @@
     * Further, a shared screen is effective to the people inside the meeting room.
     * **To leave from an oVice meeting room, click the following button at the bottom of the oVice screen.**
 	![Image of the quit button from meeting](img/oVice_meeting_quit_button_en.png)
-4. Regarding vote ("Like" button)
+4. Regarding voting ("Like" button)
     * There is a button to "Like" links. If the presentation was nice, please click it to show your appreciation.	
         * ![Image of the Like button](img/oVice_like_button.png) When you click it, a new tab or window opens in your browser to show the links of "Like" and "much Like".
     * **Note, this vote determines the Best Interactive Award and the Excellent Interactive Awards.**
