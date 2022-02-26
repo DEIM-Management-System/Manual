@@ -12,9 +12,11 @@
 ## When you are harassed / see harassment
 * DEIM never tolerate any form of harassment of presenters / participants.
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
-    1. Escape with all your might, such as closing the oVice window.
+    1. **Escape with all your might**, such as closing the oVice window.
     2. Report to ahp@dbsj.org.
-* If you see any harassment to other participants / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters,  please take the following actions.
+    1. Quickly report to the session chair or organizers through chatting.
+    2. Report to ahp@dbsj.org.
 
 
 ##  Procedures to attend an oral presentation session
