@@ -8,12 +8,16 @@
 	* **1st half: oral presentations in Webex**：15 minutes for each presentation * 4 - 6 presentations (totally 60 - 90 minutes)
 	* **2nd half：Q and A in oVice**: The remaining time of the session
 
+
 ## When you are harassed
 * DEIM never tolerate any form of harassment of presenters / participants.
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing the oVice window. Even if a presenter interrupts her/his presentation or Q and A in the middle, it will not be any kind of disadvantage for the presenter. Don't forget running away has higher priority.
     2. Report to ahp@dbsj.org.
-* If you see any harassment to other participants / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters,  please take the following actions.
+    1. Quickly report to the session chair or organaizers through chatting.
+    2. Report to ahp@dbsj.org.
+
 
 ## Procedures of an oral presentation
 1. **By 10 minutes before the starting time**, the meeting room for each session becomes ready to enter.
