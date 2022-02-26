@@ -18,7 +18,9 @@
 * If you are harassed in the oVice booth or some other places in DEIM, please take the following actions.
     1. Escape with all your might, such as closing the oVice window. Even if a presenter interrupts her/his presentation or Q and A in the middle, it will not be any kind of disadvantage for the presenter. Don't forget running away has higher priority.
     2. Report to ahp@dbsj.org.
-* If you see any harassment to other participants / presenters, please report to the above address.
+* If you see any harassment to other participants / presenters,  please take the following actions.
+    1. Quickly report to the session chair or organaizers through chatting.
+    2. Report to ahp@dbsj.org.
 
 
 ## Procedures of an interactive presentation
