@@ -7,6 +7,7 @@
    1. **The abstract of the study (1 page poster in PDF format, pre-submit is required)**
       * Create in 16:9 horizontal size in PowerPoint, etc.
       * This poster is put at your poster booth in the oVice venue.
+      * Even in the case this poster is not pre-submitted, you can have a presentation on the day.
    2. **The slides for your interactive presentation**
       * In the oVice venue, you have your presentation by sharing your screen or window of this presentation slides.
       * You can reuse the above one-page poster, or can use other material such as PowerPoint slides ( **multiple pages are allowed** ).
