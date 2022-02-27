@@ -19,7 +19,7 @@
 - hogehoge
 
 ## 特別な委員用のマニュアル
-- [プレナリーセッション座長用](forPlenaryChair.md)
+- hogehoge
 
 ## Cisco Webex関連リンク集
 - hogehoge
